@@ -6,7 +6,7 @@ The goal of this workshop is to bring together researchers and practitioners int
 - Interpretable and explainable ML
 - Formal methods and program verification
 - Visualization and human factors
-- Security in ML
+- Security and Robustness in ML
 
 By bringing together researchers and practitioners working in the aforementioned research areas, we hope to address several key questions pertaining to model debugging (some of which are highlighted below) and facilitate an insightful discussion about the strengths and weaknesses of existing approaches:
 
@@ -19,14 +19,14 @@ By bringing together researchers and practitioners working in the aforementioned
 
 
 # Call for Papers and Submission Instructions
-We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references) in the ICLR template.
+We invite researchers to submit anonymous extended abstracts of up to 4 pages (excluding references) in the ICLR template. More details to come.
 
 Submit on TBA.
 
 
 # Important Dates
 
-- Submission Deadline: TBD
+- Submission Deadline: March 
 - Notification: TBD
 - Workshop: Mon May 6th 09:00 AM -- 06:00 PM @ Room R3
 
@@ -37,7 +37,7 @@ Submit on TBA.
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
 
-Please email [blahblah@gmail.com](mailto:x) with any questions.
+Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any questions.
 
 
 # Tentative Schedule
