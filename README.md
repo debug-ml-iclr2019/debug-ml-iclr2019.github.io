@@ -26,7 +26,7 @@ Submit on TBA.
 
 # Important Dates
 
-- Submission Deadline: March 
+- Submission Deadline: TBD
 - Notification: TBD
 - Workshop: Mon May 6th 09:00 AM -- 06:00 PM @ Room R3
 
@@ -34,6 +34,7 @@ Submit on TBA.
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
 - [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
 - [Julius Adebayo](http://juliusadebayo.com/) (MIT)
+- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and at OpenAI)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
 
@@ -52,7 +53,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 10:45 - 11:00 | 3 spotlight contributed talks (5 mins each) |
 | 11.00 - 12.00 | First Poster session |
 | 12.00 - 1.15 | Lunch |
-| 1.15 - 1.45 | Opinion piece: Can model interpretability help with debugging? | 
+| 1.15 - 1.45 | Opinion piece: Can model Interpretability help with debugging? | 
 | 1.45 pm - 2.00 | Discussion (for opinion piece) | 
 | 2.00 pm - 2.30 | Invited talk 3 (30 mins talk including 5 mins questions) |
 | 2.30 pm - 2.45 | Break |
