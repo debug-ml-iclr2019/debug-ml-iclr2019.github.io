@@ -35,6 +35,7 @@ Submit on TBA.
 - [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
 - [Julius Adebayo](http://juliusadebayo.com/) (MIT)
 - [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and at OpenAI)
+- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
 
