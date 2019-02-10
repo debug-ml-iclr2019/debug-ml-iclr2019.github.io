@@ -53,6 +53,9 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
+# Confirmed Speakers & Panelists
+- [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
+- [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 
 # Tentative Schedule
 
