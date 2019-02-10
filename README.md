@@ -25,7 +25,7 @@ If you are a student or postdoc, we encourage you to apply for ICLR’s voluntee
 
 ## Submission Instructions
 
-- [Submission page](https://easychair.org/conferences/?conf=debugml19) 
+- Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
 
 - Submit anonymized papers of up to 4 pages (not including references) using the ICLR template. The 4 page limit is strict, but references can be as many pages as needed. 
 
@@ -35,8 +35,7 @@ If you are a student or postdoc, we encourage you to apply for ICLR’s voluntee
 
 Accepted papers will be presented as posters at the workshop. Additionally, some accepted papers will also be invited to present spotlight or oral talks at the workshop. Selected papers will be recognized with Best Research Paper, Best Applied Paper, Best Student Paper awards. Camera-ready versions of accepted papers will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings. 
 
-Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)with any questions.
-
+Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any questions.
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
