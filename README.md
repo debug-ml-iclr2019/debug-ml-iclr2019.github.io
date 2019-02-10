@@ -12,21 +12,21 @@ The goal of this workshop, held at the [International Conference on Learning Rep
 
 - **Human-in-the-loop** techniques for model debugging: What are some of the effective strategies for using human input and expertise for debugging ML models?
 
-- Novel **adversarial attacks** for highlighting errors in model behavior: How do we design adversarial attacks that highlight vulnerabilities in the functionality of ML models?
+- Novel **adversarial** attacks for highlighting errors in model behavior: How do we design adversarial attacks that highlight vulnerabilities in the functionality of ML models?
 
 - **Theoretical correctness** of model debugging techniques: How do we provide guarantees on the correctness of proposed debugging approaches? Can we take cues from statistical considerations such as multiple testing and uncertainty to ensure that debugging methodologies and tools actually detect ‘true’ errors?
 
 - Theoretical guarantees on the **robustness** of ML models: Given a ML model or system, how do we bound the probability of its failures?
 
-- Insights into errors or biases of **real-world ML systems**: What can we learn from the failures of widely deployed ML systems? 
+- Insights into **errors or biases of real-world ML systems**: What can we learn from the failures of widely deployed ML systems? 
 
-- **Best practices** for debugging large scale ML systems: What are standardized best practices for debugging large-scale ML systems?
+- **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems?
 
 ## Important Dates
-- Submission deadline: March 1, 2019, 11:59pm Pacific Time
-- Acceptance notification: March 18, 2019 (before ICLR early registration deadline)
-- Camera-ready deadline for accepted papers: April 6, 2019
-- Workshop: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
+- **Submission deadline**: March 1, 2019, 11:59pm Pacific Time
+- **Acceptance notification**: March 18, 2019 (before ICLR early registration deadline)
+- **Camera-ready deadline** for accepted papers: April 6, 2019
+- **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
 
 
 If you are a student or postdoc, we encourage you to apply for ICLR’s volunteer and travel grants before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
@@ -35,7 +35,7 @@ If you are a student or postdoc, we encourage you to apply for ICLR’s voluntee
 
 - Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
 
-- Submit anonymized papers of up to 4 pages (not including references) using the ICLR template. The 4 page limit is strict, but references can be as many pages as needed. 
+- Submit anonymized papers of up to 4 pages (not including references) using the [ICLR template](https://iclr.cc/Conferences/2019/CallForPapers). The 4 page limit is strict, but references can be as many pages as needed. 
 
 - The reviewing process is double blind. Hence, please ensure that the PDF does not contain any information that could identify authors or institutions. Do not put author names or institutions in the filename of the PDF. 
 
@@ -75,6 +75,6 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
 - [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
 - [Julius Adebayo](http://juliusadebayo.com/) (MIT)
-- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and at OpenAI)
+- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
