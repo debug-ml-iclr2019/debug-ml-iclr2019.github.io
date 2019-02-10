@@ -5,13 +5,21 @@ Machine learning (ML) models are increasingly being employed to make highly cons
 The goal of this workshop is to bring together researchers and practitioners with different perspectives on debugging ML models. Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
 - Debugging via interpretability: How can interpretable models and techniques aid us in effectively debugging ML models?
+
 - Program verification as a tool for model debugging: Are existing program verification frameworks readily applicable to ML models? If not, what are the gaps that exist and how do we bridge them?
+
 - Visualization tools for debugging ML models: What kind of visualization techniques would be most effective in exposing vulnerabilities of ML models?
+
 - Human-in-the-loop techniques for model debugging: What are some of the effective strategies for using human input and expertise for debugging ML models?
+
 - Novel adversarial attacks for highlighting errors in model behavior: How do we design adversarial attacks that highlight vulnerabilities in the functionality of ML models?
+
 - Theoretical correctness of model debugging techniques: How do we provide guarantees on the correctness of proposed debugging approaches? Can we take cues from statistical considerations such as multiple testing and uncertainty to ensure that debugging methodologies and tools actually detect ‘true’ errors?
+
 - Theoretical guarantees on the robustness of ML models: Given a ML model or system, how do we bound the probability of its failures?
+
 - Insights into errors or biases of real-world ML systems: What can we learn from the failures of widely deployed ML systems? 
+
 - Best practices for debugging large scale ML systems: What are standardized best practices for debugging large-scale ML systems?
 
 ## Important Dates
