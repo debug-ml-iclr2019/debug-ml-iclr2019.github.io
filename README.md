@@ -45,14 +45,6 @@ Accepted papers will be presented as posters at the workshop. Additionally, some
 
 Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any questions.
 
-## Organizers
-- [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
-- [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
-- [Julius Adebayo](http://juliusadebayo.com/) (MIT)
-- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and at OpenAI)
-- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
-- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
-
 # Confirmed Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
@@ -77,3 +69,11 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 3.30 pm - 4.00 | 2 contributed oral talks (15 mins each, including questions) |
 | 4.00 pm - 4.30 | Invited talk 4 (30 mins talk including 5 mins questions) |
 | 4.30 pm - 5.30 | Poster session |
+
+## Organizers
+- [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
+- [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
+- [Julius Adebayo](http://juliusadebayo.com/) (MIT)
+- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and at OpenAI)
+- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
+- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
