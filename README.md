@@ -15,27 +15,23 @@ The goal of this workshop is to bring together researchers and practitioners wit
 - Best practices for debugging large scale ML systems: What are standardized best practices for debugging large-scale ML systems?
 
 ## Important Dates
-- Submission deadline: March 1, 2019, 11.59pm Pacific Time
-
+- Submission deadline: March 1, 2019, 11:59pm Pacific Time
 - Acceptance notification: March 18, 2019 (before ICLR early registration deadline)
-
 - Camera-ready deadline for accepted papers: April 6, 2019
-
 - Workshop: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
 
 
-If you are a student/postdoc, we encourage you to apply for ICLR’s volunteer and travel grants before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
+If you are a student or postdoc, we encourage you to apply for ICLR’s volunteer and travel grants before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
 
 ## Submission Instructions
 
-- Submission page: [Link](https://easychair.org/conferences/?conf=debugml19) 
+- [Submission page](https://easychair.org/conferences/?conf=debugml19) 
 
 - Submit anonymized papers of up to 4 pages (not including references) using the ICLR template. The 4 page limit is strict, but references can be as many pages as needed. 
 
 - The reviewing process is double blind. Hence, please ensure that the PDF does not contain any information that could identify authors or institutions. Do not put author names or institutions in the filename of the PDF. 
 
 - Concurrent submission to other venues (journal, conference workshop) is allowed. Work already published in a journal,conference, or workshop should be extended in a meaningful way. 
-
 
 Accepted papers will be presented as posters at the workshop. Additionally, some accepted papers will also be invited to present spotlight or oral talks at the workshop. Selected papers will be recognized with Best Research Paper, Best Applied Paper, Best Student Paper awards. Camera-ready versions of accepted papers will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings. 
 
