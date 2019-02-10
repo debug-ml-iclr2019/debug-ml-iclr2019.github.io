@@ -2,7 +2,7 @@
 
 Machine learning (ML) models are increasingly being employed to make highly consequential decisions pertaining to employment, bail, parole, and lending. While such models can learn from large amounts of data and are often very scalable, their applicability is limited by certain safety challenges. A key challenge is identifying and correcting systematic patterns of mistakes made by ML models before deploying them in the real world.
 
-The goal of this workshop, held at the [International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
+The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
 
