@@ -66,7 +66,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 1.45 pm - 2.00 | Discussion (for opinion piece) | 
 | 2.00 pm - 2.30 | Invited talk 3 (30 mins talk including 5 mins questions) |
 | 2.30 pm - 2.45 | Break |
-| 2.45 pm - 3.30 | Panel (see discussion of panel below) |
+| 2.45 pm - 3.30 | Panel |
 | 3.30 pm - 4.00 | 2 contributed oral talks (15 mins each, including questions) |
 | 4.00 pm - 4.30 | Invited talk 4 (30 mins talk including 5 mins questions) |
 | 4.30 pm - 5.30 | Poster session |
