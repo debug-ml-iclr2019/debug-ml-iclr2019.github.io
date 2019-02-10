@@ -29,7 +29,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
 
 
-If you are a student or postdoc, we encourage you to apply for ICLR’s volunteer and travel grants before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
+If you are a student or postdoc, we encourage you to apply for ICLR’s [volunteer](https://iclr.cc/accounts/login/?next=/Volunteers/volunteerapplication) and [travel grants](https://iclr.cc/accounts/login/?next=/TravelApplication) before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
 
 ## Submission Instructions
 
