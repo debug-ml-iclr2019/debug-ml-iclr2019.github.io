@@ -18,7 +18,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 - Theoretical guarantees on the **robustness** of ML models: Given a ML model or system, how do we bound the probability of its failures?
 
-- Insights into **errors or biases of real-world ML systems**: What can we learn from the failures of widely deployed ML systems? 
+- Insights into **errors or biases of real-world ML systems**: What can we learn from the failures of widely deployed ML systems? How do we address the problem of 'fairness debugging' i.e., what kind of techniques would be useful to detect various kinds of biases including discrimination in ML models?
 
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems?
 
