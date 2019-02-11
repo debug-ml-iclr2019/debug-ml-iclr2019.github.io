@@ -41,7 +41,7 @@ If you are a student or postdoc, we encourage you to apply for ICLR’s [volunte
 
 - Concurrent submission to other venues (journal, conference workshop) is allowed. Work already published in a journal,conference, or workshop should be extended in a meaningful way. 
 
-Accepted papers will be presented as posters at the workshop. Additionally, some accepted papers will also be invited to present spotlight or oral talks at the workshop. Selected papers will be recognized with Best Research Paper, Best Applied Paper, Best Student Paper awards. Camera-ready versions of accepted papers will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings. 
+Accepted papers will be presented as posters at the workshop. Additionally, some accepted papers will also be invited to present spotlight or oral talks at the workshop. Selected papers will be recognized with **Best Research Paper**, **Best Applied Paper**, **Best Student Paper** awards. Camera-ready versions of accepted papers will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings. 
 
 Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any questions.
 
