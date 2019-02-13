@@ -18,9 +18,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 - Theoretical guarantees on the **robustness** of ML models: Given a ML model or system, how do we bound the probability of its failures?
 
-- Insights into **errors or biases of real-world ML systems**: What can we learn from the failures of widely deployed ML systems? How do we address the problem of 'fairness debugging' i.e., what kind of techniques would be useful to detect various kinds of biases including discrimination in ML models?
+- Insights into **errors or biases of real-world ML systems**: What can we learn from the failures of widely deployed ML systems? What can we say about debugging for different types of biases, including discrimination? 
 
-- **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems?
+- **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
 ## Important Dates
 - **Submission deadline**: March 1, 2019, 11:59pm Pacific Time
@@ -48,7 +48,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 # Confirmed Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
-- More to come soon
+- More to come soon, covering the different perspectives of the workshop
 
 # Tentative Schedule
 
