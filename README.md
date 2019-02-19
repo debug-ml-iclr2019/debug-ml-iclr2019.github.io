@@ -85,7 +85,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Forough Arabshahi (Carnegie Mellon University) | Anqi Liu (Caltech) |
 | Kamyar Azzizzadenesheli (UC Irvine) | Yin Lou (Ant Financial) |
 | Gagan Bansal (University of Washington) | David Madras (University of Toronto / Vector Institute) |
-| Osbert Bastani (University of Pennsylvania) | Momin Malik (Carnegie Mellon University) |
+| Osbert Bastani (University of Pennsylvania) | Momin Malik (Berkman Klein Center) |
 | Andrew Beam (Harvard University) | Smitha Milli (UC Berkeley) |
 | Kush Bhatia (UC Berkeley) | Besmira Nushi (Microsoft Research) |
 | Umang Bhatt (Carnegie Mellon University) | Saswat Padhi (UCLA) |
