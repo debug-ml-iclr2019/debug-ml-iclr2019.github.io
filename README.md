@@ -79,6 +79,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
 ## Program Committee
+| --- | --- |
 | Samira Abnar (University of Amsterdam) | Isaac Lage (Harvard University) |
 | David Alvarez Melis (MIT) | Finnian Lattimore (Australian National University) |
 | Forough Arabshahi (Carnegie Mellon University) | Anqi Liu (Caltech) |
