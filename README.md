@@ -1,9 +1,9 @@
 # Overview
-
 Machine learning (ML) models are increasingly being employed to make highly consequential decisions pertaining to employment, bail, parole, and lending. While such models can learn from large amounts of data and are often very scalable, their applicability is limited by certain safety challenges. A key challenge is identifying and correcting systematic patterns of mistakes made by ML models before deploying them in the real world.
 
 The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
+## Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
 
 - **Program verification** as a tool for model debugging: Are existing program verification frameworks readily applicable to ML models? If not, what are the gaps that exist and how do we bridge them?
@@ -28,11 +28,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - **Camera-ready deadline** for accepted papers: April 6, 2019
 - **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
 
-
 If you are a student or postdoc, we encourage you to apply for ICLR’s [volunteer](https://iclr.cc/accounts/login/?next=/Volunteers/volunteerapplication) and [travel grants](https://iclr.cc/accounts/login/?next=/TravelApplication) before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
 
 ## Submission Instructions
-
 - Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
 
 - Submit anonymized papers of up to 4 pages (not including references) using the [ICLR template](https://iclr.cc/Conferences/2019/CallForPapers). The 4 page limit is strict, but references can be as many pages as needed. 
@@ -51,6 +49,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - More to come soon, covering the different perspectives of the workshop
 
 # Tentative Schedule
+
 | Time | Event |
 | --- | --- |
 | 8:50 - 9:00 | Introductory Remarks from Organizers |
@@ -79,8 +78,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
 ## Program Committee
-| | |
-| --- | --- |
+
 | Samira Abnar (University of Amsterdam) | Isaac Lage (Harvard University) |
 | David Alvarez Melis (MIT) | Finnian Lattimore (Australian National University) |
 | Forough Arabshahi (Carnegie Mellon University) | Anqi Liu (Caltech) |
