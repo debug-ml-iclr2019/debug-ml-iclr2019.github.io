@@ -79,7 +79,6 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 
 ## Program Committee
 
-|  |  |
 | --- | --- |
 | Samira Abnar (University of Amsterdam) | Isaac Lage (Harvard University) |
 | David Alvarez Melis (MIT) | Finnian Lattimore (Australian National University) |
