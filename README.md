@@ -97,7 +97,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Jayesh Gupta (Stanford University) | Andrew Ross (Harvard University) |
 | Tatsunori Hashimoto (MIT) | Shibani Santurkar (MIT) |
 | Fred Hohman (Georgia Institute of Technology) | Sameer Singh (UC Irvine) |
-| Lily Hu (Harvard University) | Alison Smith-Renner (University of Maryland / Decisive Analytics Corporation) |
+| Lily Hu (Harvard University) | Alison Smith-Renner (University of Maryland) |
 | Xiaowei Huang (University of Liverpool) | Jina Suh (Microsoft Research) |
 | Saumya Jetley (University of Oxford) | Adith Swaminathan (Microsoft Research) |
 | Shalmali Joshi (Vector Institute) | Michael Tsang (University of Southern California) |
