@@ -33,7 +33,7 @@ If you are a student or postdoc, we encourage you to apply for ICLR’s [volunte
 ## Submission Instructions
 - Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
 
-- Submit anonymized papers of up to 4 pages (not including references, and an optional appendix) using the [ICLR template](https://iclr.cc/Conferences/2019/CallForPapers). The 4 page limit is strict, but references and optional appendix can be as many pages as needed. Reviewers will not be required to read the optional appendix, hence the optional appendix should be used sparingly, for technical proofs and/or reproducibility (e.g. code, experiment details). 
+- Submit anonymized papers of up to 4 pages (not including references, and an optional appendix) using the [ICLR template](https://iclr.cc/Conferences/2019/CallForPapers). The 4 page limit is strict, but references and optional appendix can be as many pages as needed. As reviewers may not read the optional appendix, it should be used sparingly for technical proofs and/or reproducibility (e.g. code, experiment details). 
 
 - The reviewing process is double blind. Hence, please ensure that the PDF does not contain any information that could identify authors or institutions. Do not put author names or institutions in the filename of the PDF. 
 
