@@ -23,9 +23,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
 ## Important Dates
-- **Submission deadline**: March 1, 2019, 11:59pm Pacific Time
+- **Submission deadline**: March 2, 2019, 12:00pm Pacific Time
 - **Acceptance notification**: March 18, 2019 (before ICLR early registration deadline)
-- **Camera-ready deadline** for accepted papers: April 6, 2019
+- **Camera-ready deadline** for accepted papers: April 10, 2019
 - **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
 
 If you are a student or postdoc, we encourage you to apply for ICLR’s [volunteer](https://iclr.cc/accounts/login/?next=/Volunteers/volunteerapplication) and [travel grants](https://iclr.cc/accounts/login/?next=/TravelApplication) before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
