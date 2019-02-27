@@ -98,20 +98,22 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Albert Gordo (Facebook) | Alexander Ratner (Stanford University) |
 | Ben Green (Harvard University) | Andrew Ross (Harvard University) |
 | Jayesh Gupta (Stanford University) | Shibani Santurkar (MIT) |
-| Tatsunori Hashimoto (MIT) | Prasanna Sattigeri (IBM Research) |
-| Fred Hohman (Georgia Institute of Technology) | Camelia Simoiu (Stanford University) |
-| Lily Hu (Harvard University) | Sameer Singh (UC Irvine) |
-| Xiaowei Huang (University of Liverpool) | Alison Smith-Renner (University of Maryland) |
-| Yannet Interian (University of San Francisco) | Jina Suh (Microsoft Research) |
-| Saumya Jetley (University of Oxford) | Adith Swaminathan (Microsoft Research) |
-| Shalmali Joshi (Vector Institute) | Michael Tsang (University of Southern California) |
-| Yannis Kalantidis (Facebook) | Dimitris Tsipras (MIT) |
-| Ece Kamar (Microsoft Research) | Berk Ustun (Harvard University) |
-| Madian Khabsa (Apple) | Gilmer Valdes (UCSF) |
-| Heidy Khlaaf (University College London) | Paroma Varma (Stanford University) |
-| Pang Wei Koh (Stanford University) | Kush Varshney (IBM Research) |
-| Josua Krause (Accern) | Fulton Wang (Sandia National Labs) |
-| Ram Kumar (Microsoft / Berkman Klein Center) | Yang Wang (Uber) |
-| Isaac Lage (Harvard University) | Fanny Yang (ETH Zurich) |
+| Satoshi Hara (Osaka University) | Prasanna Sattigeri (IBM Research) |
+| Tatsunori Hashimoto (MIT) | Peter Schulam (Johns Hopkins University) |
+| He He (NYU) | Camelia Simoiu (Stanford University) |
+| Fred Hohman (Georgia Institute of Technology) | Sameer Singh (UC Irvine) |
+| Lily Hu (Harvard University) | Alison Smith-Renner (University of Maryland) |
+| Xiaowei Huang (University of Liverpool) | Jina Suh (Microsoft Research) |
+| Yannet Interian (University of San Francisco) | Adith Swaminathan (Microsoft Research) |
+| Saumya Jetley (University of Oxford) | Michael Tsang (University of Southern California) |
+| Shalmali Joshi (Vector Institute) | Dimitris Tsipras (MIT) |
+| Yannis Kalantidis (Facebook) | Berk Ustun (Harvard University) |
+| Ece Kamar (Microsoft Research) | Gilmer Valdes (UCSF) |
+| Madian Khabsa (Apple) | Paroma Varma (Stanford University) |
+| Heidy Khlaaf (University College London) | Kush Varshney (IBM Research) |
+| Pang Wei Koh (Stanford University) | Fulton Wang (Sandia National Labs) |
+| Josua Krause (Accern) | Yang Wang (Uber) |
+| Ram Kumar (Microsoft / Berkman Klein Center) | Fanny Yang (ETH Zurich) |
+| Isaac Lage (Harvard University) | Muhammad Bilal Zafar (Bosch Center for Artificial Intelligence) |
 | Finnian Lattimore (Australian National University) | Xuezhou Zhang (University of Wisconsin-Madison) |
 | Lezhi Li (Uber) | Xin Zhang (MIT) |
