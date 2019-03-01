@@ -87,7 +87,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Gagan Bansal (University of Washington) | Momin Malik (Carnegie Mellon University) |
 | Osbert Bastani (University of Pennsylvania) | Matthew Mcdermott (MIT) |
 | Joost Bastings (University of Amsterdam) | Smitha Milli (UC Berkeley) |
-| Andrew Beam (Harvard University) | Shira Mitchell (NYC Mayor's Office of Data Analytics) |
+| Andrew Beam (Harvard University) | Shira Mitchell |
 | Kush Bhatia (UC Berkeley) | Tristan Naumann (Microsoft Research) |
 | Umang Bhatt (Carnegie Mellon University) | Besmira Nushi (Microsoft Research) |
 | Sam Corbett-Davies (Stanford University) | Saswat Padhi (UCLA) |
