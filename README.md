@@ -23,7 +23,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
 ## Important Dates
-- **Submission deadline**: ~~March 1, 2019, 11.59pm~~ March 2, 2019, 11.59pm Pacific Time. If you miss the deadline by a few hours, email us the submission at debugging.ml@gmail.com and we will consider it on a case-to-case basis. 
+- **Submission deadline**: ~~March 1, 2019, 11.59pm~~. March 2, 2019, 11.59pm Pacific Time. If you miss the deadline by a few hours, email us the submission at debugging.ml@gmail.com and we will consider it on a case-to-case basis. 
 - **Acceptance notification**: March 18, 2019 (before ICLR early registration deadline)
 - **Camera-ready deadline** for accepted papers: April 10, 2019
 - **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
