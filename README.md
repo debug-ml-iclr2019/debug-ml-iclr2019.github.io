@@ -84,7 +84,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | David Alvarez Melis (MIT) | Momin Malik (Berkman Klein Center) |
 | Forough Arabshahi (Carnegie Mellon University) | Matthew Mcdermott (MIT) |
 | Kamyar Azzizzadenesheli (UC Irvine) | Smitha Milli (UC Berkeley) |
-| Gagan Bansal (University of Washington) | Shira Mitchell () |
+| Gagan Bansal (University of Washington) | Shira Mitchell |
 | Osbert Bastani (University of Pennsylvania) | Tristan Naumann (Microsoft Research) |
 | Joost Bastings (University of Amsterdam) | Besmira Nushi (Microsoft Research) |
 | Andrew Beam (Harvard University) | Saswat Padhi (UCLA) |
@@ -117,6 +117,6 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Isaac Lage (Harvard University) | Cristian Canton (Facebook) |
 | Finnian Lattimore (Australian National University) | Grzegorz Chrupala (Tilburg University) |
 | Lezhi Li (Uber) | Jason Yosinski (Uber) |
-| Anqi Liu (Caltech) | Siongthye Goh (UNICEN) |
+| Anqi Liu (Caltech) | Siongthye Goh (Singapore Management University) |
 | Yin Lou (Ant Financial) | Ravi Shroff (NYU) |
 | David Madras (University of Toronto / Vector Institute) |  |
