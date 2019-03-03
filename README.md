@@ -80,24 +80,25 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 ## Program Committee
 
 | --- | --- |
-| Samira Abnar (University of Amsterdam) | Anqi Liu (Caltech) |
-| David Alvarez Melis (MIT) | Yin Lou (Ant Financial) |
-| Forough Arabshahi (Carnegie Mellon University) | David Madras (University of Toronto / Vector Institute) |
-| Kamyar Azzizzadenesheli (UC Irvine) | Sara Magliacane (IBM Research) |
-| Gagan Bansal (University of Washington) | Momin Malik (Berkman Klein Center) |
-| Osbert Bastani (University of Pennsylvania) | Matthew Mcdermott (MIT) |
-| Joost Bastings (University of Amsterdam) | Smitha Milli (UC Berkeley) |
-| Andrew Beam (Harvard University) | Shira Mitchell () |
-| Kush Bhatia (UC Berkeley) | Tristan Naumann (Microsoft Research) |
-| Umang Bhatt (Carnegie Mellon University) | Besmira Nushi (Microsoft Research) |
-| Cristian Canton (Facebook) | Saswat Padhi (UCLA) |
+| Samira Abnar (University of Amsterdam) | Lezhi Li (Uber) |
+| David Alvarez Melis (MIT) | Anqi Liu (Caltech) |
+| Forough Arabshahi (Carnegie Mellon University) | Yin Lou (Ant Financial) |
+| Kamyar Azzizzadenesheli (UC Irvine) | David Madras (University of Toronto / Vector Institute) |
+| Gagan Bansal (University of Washington) | Sara Magliacane (IBM Research) |
+| Osbert Bastani (University of Pennsylvania) | Momin Malik (Berkman Klein Center) |
+| Joost Bastings (University of Amsterdam) | Matthew Mcdermott (MIT) |
+| Andrew Beam (Harvard University) | Smitha Milli (UC Berkeley) |
+| Kush Bhatia (UC Berkeley) | Shira Mitchell () |
+| Umang Bhatt (Carnegie Mellon University) | Tristan Naumann (Microsoft Research) |
+| Cristian Canton (Facebook) | Besmira Nushi (Microsoft Research) |
+| Arthur Choi (UCLA) | Saswat Padhi (UCLA) |
 | Grzegorz Chrupala (Tilburg University) | Emma Pierson (Stanford University) |
 | Sam Corbett-Davies (Stanford University) | Forough Poursabzi-Sangdeh (Microsoft Research) |
 | Amit Dhurandhar (IBM Research) | Manish Raghavan (Cornell University) |
 | Samuel Finlayson (Harvard Medical School, MIT) | Ramya Ramakrishnan (MIT) |
 | Tian Gao (IBM Research) | Alexander Ratner (Stanford University) |
 | Efstathios Gennatas (UCSF) | Andrew Ross (Harvard University) |
-| Siongthye Goh (UNICEN) | Shibani Santurkar (MIT) |
+| Siongthye Goh (Singapore Management University) | Shibani Santurkar (MIT) |
 | Albert Gordo (Facebook) | Prasanna Sattigeri (IBM Research) |
 | Ben Green (Harvard University) | Peter Schulam (Johns Hopkins University) |
 | Jayesh Gupta (Stanford University) | Ravi Shroff (NYU) |
@@ -113,10 +114,9 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | Yannis Kalantidis (Facebook) | Paroma Varma (Stanford University) |
 | Ece Kamar (Microsoft Research) | Kush Varshney (IBM Research) |
 | Madian Khabsa (Apple) | Fulton Wang (Sandia National Labs) |
-| Heidy Khlaaf (University College London) | Yang Wang (Uber) |
+| Heidy Khlaaf (Adelard) | Yang Wang (Uber) |
 | Pang Wei Koh (Stanford University) | Fanny Yang (ETH Zurich) |
 | Josua Krause (Accern) | Jason Yosinski (Uber) |
 | Ram Kumar (Microsoft / Berkman Klein Center) | Muhammad Bilal Zafar (Bosch Center for Artificial Intelligence) |
 | Isaac Lage (Harvard University) | Xuezhou Zhang (University of Wisconsin-Madison) |
 | Finnian Lattimore (Australian National University) | Xin Zhang (MIT) |
-| Lezhi Li (Uber) |  |
