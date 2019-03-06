@@ -56,20 +56,20 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 9.00 - 9.30 | Invited talk 1 |
 | 9.30 - 9.45 | Oral contributed talk 1 (best paper) |
 | 9.45 - 10.15 | Invited talk 2 | 
-| 10.15 - 10.30 | Coffee break 1 |
-| 10.30 - 11.00 | Invited talk 3 |
-| 11.00 - 11.15 | Oral contributed talk 2 (best paper) |
-| 11.15 - 11.30 | Spotlight contributed talks |
-| 11.30 - 12.15 | Poster session |
-| 12.15 - 1.30 | Lunch |
+| 10.15 - 10.35 | Coffee break 1 |
+| 10.35 - 11.05 | Invited talk 3 |
+| 11.05 - 11.20 | Oral contributed talk 2 (best paper) |
+| 11.20 - 11.40 | Spotlight contributed talks |
+| 11.40 - 12.20 | Poster session |
+| 12.20 - 1.30 | Lunch |
 | 1.30 - 2.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? | 
 | 2.00 - 2.15 | Floor discussion for opinion piece | 
-| 2.15 - 2.45 | Invited talk 4 |
-| 2.45 - 3.00 | Oral contributed talk 3 (best paper) |
-| 3.00 - 3.15 | Coffee break 2 |
-| 3.15 - 3.45 | Invited talk 5 |
-| 3.45 - 4.45 | Industry/applications forum -- talks and demos |
-| 4.45 - 5.45 | Poster session (recap) and demos |
+| 2.15 - 2.30 | Oral contributed talk 3 (best paper) |
+| 2.30 - 3.00 | Invited talk 4 |
+| 3.00 - 3.20 | Coffee break 2 |
+| 3.20 - 3.50 | Invited talk 5 |
+| 3.50 - 4.50 | Industry/applications forum -- talks and demos |
+| 4.50 - 5.50 | Poster session (recap) and demos |
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
