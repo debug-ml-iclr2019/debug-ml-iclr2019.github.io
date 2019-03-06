@@ -52,22 +52,23 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 
 | Time | Event |
 | --- | --- |
-| 8:50 - 9:00 | Introductory Remarks from Organizers |
-| 9:00 - 9:40 | Invited talk 1 (30-40 mins talk including 5 mins questions) |
-| 9:40 - 10:00 | Contributed oral talk |
-| 10:00 - 10:15 | Break |
-| 10:15 - 10:55 | Invited talk 2 |
-| 10:55 - 11:10 | 3 spotlight contributed talks (5 mins each) |
-| 11.10 - 12.00 | First poster session |
+| 8.50 - 9.00 | Introductory Remarks from Organizers |
+| 9.00 - 9.30 | Invited talk 1 |
+| 9.30 - 9.45 | Oral contributed talk 1 |
+| 9.45 - 10.15 | Invited talk 2 | 
+| 10.15 - 10.30 | Coffee break 1 |
+| 10.30 - 11.00 | Invited talk 3 |
+| 11.00 - 11.15 | Spotlight contributed talks |
+| 11.15 - 12.00 | Poster session |
 | 12.00 - 1.15 | Lunch |
 | 1.15 - 1.45 | Opinion piece (Cynthia Rudin): Interpretability and debugging? | 
-| 1.45 pm - 2.00 | Floor discussion (for opinion piece) | 
-| 2.00 pm - 2.40 | Invited talk 3 |
-| 2.40 pm - 2.55 | Break |
-| 2.55 pm - 3.40 | Panel (Different perspectives on debugging ML models) |
-| 3.40 pm - 4.00 | Contributed oral talk |
-| 4.00 pm - 4.40 | Invited talk 4 |
-| 4.40 pm - 5.30 | Second poster session |
+| 1.45 - 2.00 | Floor discussion for opinion piece | 
+| 2.00 - 2.30 | Invited talk 4 |
+| 2.30 - 2.45 | Oral contributed talk 2 |
+| 2.45 - 3.00 | Coffee break 2 |
+| 3.00 - 3.30 | Invited talk 5 |
+| 3.30 - 4.30 | Industry/applications forum -- talks and demos |
+| 4.30 - 5.30 | Poster session and demos |
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
