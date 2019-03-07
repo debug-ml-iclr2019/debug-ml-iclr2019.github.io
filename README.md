@@ -46,6 +46,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 # Confirmed Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
+- [Suchi Saria](https://suchisaria.jhu.edu/) (John Hopkins University)
 - More to come soon, covering the different perspectives of the workshop
 
 # Tentative Schedule
