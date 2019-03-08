@@ -47,6 +47,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (John Hopkins University)
+- [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - More to come soon, covering the different perspectives of the workshop
 
 # Tentative Schedule
