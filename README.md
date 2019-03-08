@@ -57,19 +57,17 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 8.50 - 9.00 | Opening remarks |
 | 9.00 - 9.30 | Invited talk 1 |
 | 9.30 - 9.45 | Oral contributed talk 1 (best research paper) |
-| 9.45 - 9.50 | Break + buffer |
-| 9.50 - 10.20 | Invited talk 2 | 
-| 10.20 - 10.40 | Coffee break |
-| 10.40 - 11.10 | Invited talk 3 |
-| 11.10 - 11.25 | Oral contributed talk 2 (best student paper) |
-| 11.25 - 11.30 | Break + buffer |
-| 11.30 - 12.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 12.00 - 12.15 | Floor discussion for opinion piece | 
+| 9.45 - 10.15 | Invited talk 2 | 
+| 10.15 - 10.35 | Coffee break |
+| 10.35 - 11.05 | Invited talk 3 |
+| 11.05 - 11.20 | Oral contributed talk 2 (best student paper) |
+| 11.20 - 11.25 | Break + buffer |
+| 11.25 - 11.55 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 11.55 - 12.15 | Floor discussion for opinion piece | 
 | 12.15 - 1.30 | Lunch |
 | 1.30 - 2.00 | Invited talk 4 |
 | 2.00 - 2.30 | Panel |
-| 2.30 - 2.35 | Break + buffer |
-| 2.35 - 3.00 | Spotlight contributed talks |
+| 2.30 - 3.00 | Spotlight contributed talks |
 | 3.00 - 4.00 | Poster session + coffee break |
 | 4.00 - 4.30 | Invited talk 5 |
 | 4.30 - 4.45 | Oral contributed talk/demo (best applied contribution) |
