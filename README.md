@@ -46,7 +46,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 # Confirmed Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
-- [Suchi Saria](https://suchisaria.jhu.edu/) (John Hopkins University)
+- [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - More to come soon, covering the different perspectives of the workshop
 
@@ -58,20 +58,20 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 9.00 - 9.30 | Invited talk 1 |
 | 9.30 - 9.45 | Oral contributed talk 1 (best paper) |
 | 9.45 - 10.15 | Invited talk 2 | 
-| 10.15 - 10.35 | Coffee break 1 |
-| 10.35 - 11.05 | Invited talk 3 |
-| 11.05 - 11.20 | Oral contributed talk 2 (best paper) |
-| 11.20 - 11.40 | Spotlight contributed talks |
-| 11.40 - 12.20 | Poster session |
-| 12.20 - 1.30 | Lunch |
-| 1.30 - 2.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? | 
-| 2.00 - 2.15 | Floor discussion for opinion piece | 
-| 2.15 - 2.30 | Oral contributed talk 3 (best paper) |
-| 2.30 - 3.00 | Invited talk 4 |
-| 3.00 - 3.20 | Coffee break 2 |
-| 3.20 - 3.50 | Invited talk 5 |
-| 3.50 - 4.50 | Industry/applications forum -- talks and demos |
-| 4.50 - 5.50 | Poster session (recap) and demos |
+| 10.15 - 10.30 | Coffee break |
+| 10.30 - 11.00 | Invited talk 3 |
+| 11.00 - 11.15 | Oral contributed talk 2 (best paper) |
+| 11.15 - 11.45 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 11.45 - 12.00 | Floor discussion for opinion piece | 
+| 12.00 - 1.15 | Lunch |
+| 1.15 - 1.45 | Invited talk 4 |
+| 1.45 - 2.00 | Spotlight contributed talks |
+| 2.00 - 2.30 | Panel |
+| 2.30 - 2.45 | Oral contributed talk 3 (best paper) |
+| 2.45 - 3.45 | Poster session and Coffee break |
+| 3.45 - 4.15 | Invited talk 5 |
+| 4.15 - 5.15 | Industry/applications forum -- talks and demos |
+| 5.15 - 5.25 | Closing remarks |
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
