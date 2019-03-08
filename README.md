@@ -54,24 +54,28 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 
 | Time | Event |
 | --- | --- |
-| 8.50 - 9.00 | Opening remarks from organizers |
+| 8.50 - 9.00 | Opening remarks |
 | 9.00 - 9.30 | Invited talk 1 |
-| 9.30 - 9.45 | Oral contributed talk 1 (best paper) |
-| 9.45 - 10.15 | Invited talk 2 | 
-| 10.15 - 10.30 | Coffee break |
-| 10.30 - 11.00 | Invited talk 3 |
-| 11.00 - 11.15 | Oral contributed talk 2 (best paper) |
-| 11.15 - 11.45 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 11.45 - 12.00 | Floor discussion for opinion piece | 
-| 12.00 - 1.15 | Lunch |
-| 1.15 - 1.45 | Invited talk 4 |
-| 1.45 - 2.00 | Oral contributed talk 3 (best paper) |
+| 9.30 - 9.45 | Oral contributed talk 1 (best research paper) |
+| 9.45 - 9.50 | Break + buffer |
+| 9.50 - 10.20 | Invited talk 2 | 
+| 10.20 - 10.40 | Coffee break |
+| 10.40 - 11.10 | Invited talk 3 |
+| 11.10 - 11.25 | Oral contributed talk 2 (best student paper) |
+| 11.25 - 11.30 | Break + buffer |
+| 11.30 - 12.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 12.00 - 12.15 | Floor discussion for opinion piece | 
+| 12.15 - 1.30 | Lunch |
+| 1.30 - 2.00 | Invited talk 4 |
 | 2.00 - 2.30 | Panel |
-| 2.30 - 2.50 | Spotlight contributed talks |
-| 2.50 - 3.50 | Poster session and Coffee break |
-| 3.50 - 4.20 | Invited talk 5 |
-| 4.20 - 5.20 | Industry/applications forum -- talks and demos |
-| 5.20 - 5.30 | Closing remarks from organizers |
+| 2.30 - 2.35 | Break + buffer |
+| 2.35 - 3.00 | Spotlight contributed talks |
+| 3.00 - 4.00 | Poster session + coffee break |
+| 4.00 - 4.30 | Invited talk 5 |
+| 4.30 - 4.45 | Oral contributed talk/demo (best applied contribution) |
+| 4.45 - 4.50 | Break + buffer |
+| 4.50 - 5.50 | Industry/applications forum -- talks and demos |
+| 5.50 - 6.00 | Closing remarks |
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
