@@ -54,7 +54,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 
 | Time | Event |
 | --- | --- |
-| 8.50 - 9.00 | Introductory Remarks from Organizers |
+| 8.50 - 9.00 | Opening remarks from organizers |
 | 9.00 - 9.30 | Invited talk 1 |
 | 9.30 - 9.45 | Oral contributed talk 1 (best paper) |
 | 9.45 - 10.15 | Invited talk 2 | 
@@ -65,13 +65,13 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 | 11.45 - 12.00 | Floor discussion for opinion piece | 
 | 12.00 - 1.15 | Lunch |
 | 1.15 - 1.45 | Invited talk 4 |
-| 1.45 - 2.00 | Spotlight contributed talks |
+| 1.45 - 2.00 | Oral contributed talk 3 (best paper) |
 | 2.00 - 2.30 | Panel |
-| 2.30 - 2.45 | Oral contributed talk 3 (best paper) |
-| 2.45 - 3.45 | Poster session and Coffee break |
-| 3.45 - 4.15 | Invited talk 5 |
-| 4.15 - 5.15 | Industry/applications forum -- talks and demos |
-| 5.15 - 5.25 | Closing remarks |
+| 2.30 - 2.50 | Spotlight contributed talks |
+| 2.50 - 3.50 | Poster session and Coffee break |
+| 3.50 - 4.20 | Invited talk 5 |
+| 4.20 - 5.20 | Industry/applications forum -- talks and demos |
+| 5.20 - 5.30 | Closing remarks from organizers |
 
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
