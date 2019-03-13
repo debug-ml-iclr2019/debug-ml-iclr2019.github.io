@@ -70,11 +70,11 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | 1.30 - 2.00 | Invited talk 4 |
 | 2.00 - 2.30 | Panel |
 | 2.30 - 3.00 | Spotlight contributed talks |
-| 3.00 - 4.00 | Poster session + coffee break |
+| 3.00 - 4.00 | Posters & Interactive Demos + coffee break |
 | 4.00 - 4.30 | Invited talk 5 |
-| 4.30 - 4.45 | Oral contributed talk/demo (best applied contribution) |
+| 4.30 - 4.45 | Oral contributed talk/demo (best debugging-in-practice contribution) |
 | 4.45 - 4.50 | Break + buffer |
-| 4.50 - 5.50 | Industry/applications forum -- talks and demos |
+| 4.50 - 5.50 | Debugging-in-Practice: contributed talks |
 | 5.50 - 6.00 | Closing remarks |
 
 # Program Committee
