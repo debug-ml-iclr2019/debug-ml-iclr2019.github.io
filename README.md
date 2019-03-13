@@ -12,17 +12,17 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - More to come soon, covering the different perspectives of the workshop
 
 ## Call for Talks and Demos for Debugging-in-Practice Track
-For this **Debugging-in-Practice track**, we solicit work that advances the understanding of issues related to debugging ML models in practice. Submissions from industry practitioners are welcome and encouraged. Accepted submissions will be presented as **either talks or interactive demos**. An award will be given to the best submission in this track.
+For this **Debugging-in-Practice track**, we solicit work that advances the understanding of issues related to debugging ML models in practice. Submissions from industry practitioners are welcome and encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
 Topics of interest include but are not limited to: 
 
-- Success and failure stories from deploying ML models in the real world
+- **Success and failure stories** from deploying ML models in the real world
 
-- Software and hardware tools for model debugging -- demos of tools are welcome and highly encouraged
+- **Software and hardware tools** for model debugging -- demos of tools are welcome and highly encouraged
 
-- Understanding the domain-specific nuances of debugging ML models - e.g., debugging ML models in healthcare, criminal justice, public policy, education, and other social good applications
+- Understanding the **domain-specific** nuances of debugging ML models - e.g., debugging ML models in healthcare, criminal justice, public policy, education, and other social good applications
 
-- Best practices for debugging large-scale ML systems in industry
+- Best practices for **debugging large-scale ML systems in industry**
 
 ### Important Dates
 - **Submission deadline**: April 1, 2019, 11.59pm Anywhere on Earth (AoE) time
@@ -34,7 +34,7 @@ If you need a visa to travel to the US, consider submitting your work before the
 
 ### Submission Instructions
 - Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
-- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 11 point font and page margins of at least 1 inch. The 1-page limit is strict, but references and an optional appendix can be as many pages as needed. The optional appendix can be used for screenshots, video links, blog posts, or any other supporting material, however as reviewers may not read the optional appendix, the extended abstract should standalone.  
+- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 11 point font and page margins of at least 1 inch. The 1-page limit is strict, but references and optional appendix (for e.g. screenshots, video links, etc.) can be as many pages as needed. As reviewers may not read the optional appendix, the extended abstract should standalone. 
 - In EasyChair, you will be asked to select if you would like to present your work, if accepted, as a talk (7-15 minutes) during a Debugging-in-Practice session at the workshop, or as an interactive demo during a Posters & Demos session, or both.
 - If you intend to present your work as a demo, we strongly encourage you to provide screenshots of the demo in the optional appendix. 
 - The reviewing process is not blind, hence you do not need to anonymize your submission. Links to software implementations need not be anonymized. 
@@ -121,7 +121,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | Isaac Lage (Harvard University) | Xuezhou Zhang (University of Wisconsin-Madison) |
 | Finnian Lattimore (Australian National University) | Xin Zhang (MIT) |
 
-# Call for Research Papers (deadline has passed)
+## Call for Research Papers (deadline has passed)
 ### See Call for Talks and Demos for Debugging-in-Practice Track at top of this page
 Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
