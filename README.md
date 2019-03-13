@@ -12,7 +12,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - More to come soon, covering the different perspectives of the workshop
 
 ## Call for Talks and Demos for Debugging-in-Practice Track
-For this **Debugging-in-Practice track**, we solicit work that advances the understanding of issues related to debugging ML models in practice. Submissions from industry practitioners are welcome and encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
+For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are welcome and encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
 Topics of interest include but are not limited to: 
 
@@ -34,8 +34,8 @@ If you need a visa to travel to the US, consider submitting your work before the
 
 ### Submission Instructions
 - Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
-- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 11 point font and page margins of at least 1 inch. The 1-page limit is strict, but references and optional appendix (for e.g. screenshots, video links, etc.) can be as many pages as needed. As reviewers may not read the optional appendix, the extended abstract should standalone. 
 - In EasyChair, you will be asked to select if you would like to present your work, if accepted, as a talk (7-15 minutes) during a Debugging-in-Practice session at the workshop, or as an interactive demo during a Posters & Demos session, or both.
+- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 11 point font and page margins of at least 1 inch. The 1-page limit is strict, but references and optional appendix (e.g. for screenshots, video links, etc.) can be as many pages as needed. As reviewers may not read the optional appendix, the extended abstract should standalone. 
 - If you intend to present your work as a demo, we strongly encourage you to provide screenshots of the demo in the optional appendix. 
 - The reviewing process is not blind, hence you do not need to anonymize your submission. Links to software implementations need not be anonymized. 
 - Concurrent submission to other venues is allowed. Work already published or made public in some form will also be considered. 
