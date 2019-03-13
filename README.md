@@ -11,6 +11,39 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
 - More to come soon, covering the different perspectives of the workshop
 
+# Call for Talks and Demos for Debugging-in-Practice Track
+For the Debugging-in-Practice track at the ICLR 2019 DebugML workshop, we solicit work that advances the understanding of issues related to debugging ML models in practice. Submissions from industry practitioners are welcome and encouraged. Accepted submissions will be presented as either talks or interactive demos. An award will be given to the best submission in this track.
+
+Topics of interest include but are not limited to: 
+
+- Success and failure stories from deploying ML models in the real world
+
+- Software and hardware tools for model debugging -- demos of tools are welcome and highly encouraged
+
+- Understanding the domain-specific nuances of debugging ML models - e.g., debugging ML models in healthcare, criminal justice, public policy, education, and other social good applications
+
+- Best practices for debugging large-scale ML systems in industry
+
+### Important Dates
+- **Submission deadline**: April 1, 2019, 11.59pm Anywhere on Earth (AoE) time
+- **Acceptance notification**: April 12, 2019 (before ICLR registration cancellation deadline)
+- **Camera-ready deadline for accepted extended abstracts**: April 25, 2019
+- **Workshop**: Monday May 6th 09:00 AM – 06:00 PM @ Room R3
+
+If you need a visa to travel to the US, consider submitting your work before the submission deadline. Then contact us so that we can fast track reviewing of your work. If you need more time to prepare your submission, please contact us early on and we will see what we can do.
+
+### Submission Instructions
+- Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
+- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 11 point font and page margins of at least 1 inch. The 1-page limit is strict, but references and an optional appendix can be as many pages as needed. The optional appendix can be used for screenshots, video links, blog posts, or any other supporting material, however as reviewers may not read the optional appendix, the extended abstract should standalone.  
+- In EasyChair, you will be asked to select if you would like to present your work, if accepted, as a talk (7-15 minutes) during a Debugging-in-Practice session at the workshop, or as an interactive demo during a Posters & Demos session, or both.
+- If you intend to present your work as a demo, we strongly encourage you to provide screenshots of the demo in the optional appendix. 
+- The reviewing process is not blind, hence you do not need to anonymize your submission. Links to software implementations need not be anonymized. 
+- Concurrent submission to other venues is allowed. Work already published or made public in some form will also be considered. 
+
+**An award will be given to the best submission in this track**. Camera-ready versions of extended abstracts will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings.
+
+Please email [mailto:debugging.ml@gmail.com](debugging.ml@gmail.com) any questions.
+
 # Tentative Schedule
 
 | Time | Event |
@@ -36,7 +69,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 4.50 - 5.50 | Industry/applications forum -- talks and demos |
 | 5.50 - 6.00 | Closing remarks |
 
-## Organizers
+# Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
 - [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
 - [Julius Adebayo](http://juliusadebayo.com/) (MIT)
@@ -44,7 +77,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-## Call for Research Papers (deadline has passed)
+# Call for Research Papers (deadline has passed)
 ### See Call for Talks and Demos for Debugging-in-Practice Track at top of this page
 Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
