@@ -48,6 +48,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) with any qu
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
+- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
 - More to come soon, covering the different perspectives of the workshop
 
 # Tentative Schedule
