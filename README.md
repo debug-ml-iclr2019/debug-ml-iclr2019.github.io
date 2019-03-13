@@ -122,7 +122,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | Finnian Lattimore (Australian National University) | Xin Zhang (MIT) |
 
 ## Call for Research Papers (deadline has passed)
-### See Call for Talks and Demos for Debugging-in-Practice Track at top of this page
+### See Call for Talks and Demos for Debugging-in-Practice Track at the top of this page
 Topics of interest are listed below, although we also welcome submissions that do not directly fit into these topics.
 
 ### Topics
