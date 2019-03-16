@@ -9,6 +9,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
+- [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
 - More to come soon, covering the different perspectives of the workshop
 
 ## Call for Talks and Demos for Debugging-in-Practice Track
