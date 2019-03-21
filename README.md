@@ -7,9 +7,10 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
+- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
-- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
+- [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 - More to come soon, covering the different perspectives of the workshop
 
 ## Call for Talks and Demos for Debugging-in-Practice Track
