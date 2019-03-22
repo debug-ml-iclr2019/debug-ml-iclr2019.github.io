@@ -73,10 +73,11 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | 1.15 - 2.30 | Lunch (Main conference lunch until 2.30) |
 | 2.30 - 3.20 | Break (Main conference invited talk) |
 | 3.20 - 3.50 | Research invited talk 4: SS |
-| 3.50 - 4.00 | Practical contributed talk/demo 3 (best debugging-in-practice contribution) 
-| 4.00 - 5.00 | Posters & Interactive Demos + Coffee Break|
-| 5.00 - 5.30 | Research invited talk 5: SS |
-| 5.30 - 6.10 | Panel on perspectives on debugging |
+| 3.50 - 4.00 | Practical contributed talk/demo 3 (best debugging-in-practice contribution)  |
+| 4.00 - 4.10 | Research contributed talk 3 | 
+| 4.10 - 5.10 | Posters & Interactive Demos + Coffee Break|
+| 5.10 - 5.40 | Research invited talk 5: SS |
+| 5.40 - 6.10 | Panel on perspectives on debugging |
 | 6.10 - 6.20 | Closing remarks | 
 
 # Program Committee
