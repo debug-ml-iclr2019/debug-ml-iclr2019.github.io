@@ -58,26 +58,26 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 
 | Time | Event |
 | --- | --- |
-| 8.50 - 9.00 | Opening remarks |
-| 9.00 - 9.30 | Invited talk 1 |
-| 9.30 - 9.45 | Oral contributed talk 1 (best research paper) |
-| 9.45 - 10.15 | Invited talk 2 | 
-| 10.15 - 10.35 | Coffee break |
-| 10.35 - 11.05 | Invited talk 3 |
-| 11.05 - 11.20 | Oral contributed talk 2 (best student paper) |
-| 11.20 - 11.25 | Break + buffer |
-| 11.25 - 11.55 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 11.55 - 12.15 | Floor discussion for opinion piece | 
-| 12.15 - 1.30 | Lunch |
-| 1.30 - 2.00 | Invited talk 4 |
-| 2.00 - 2.30 | Panel |
-| 2.30 - 3.00 | Spotlight contributed talks |
-| 3.00 - 4.00 | Posters & Interactive Demos + coffee break |
-| 4.00 - 4.30 | Invited talk 5 |
-| 4.30 - 4.45 | Oral contributed talk/demo (best debugging-in-practice contribution) |
-| 4.45 - 4.50 | Break + buffer |
-| 4.50 - 5.50 | Debugging-in-Practice: contributed talks |
-| 5.50 - 6.00 | Closing remarks |
+| 9.50 - 9.55 | Opening remarks |
+| 9.55 - 10.25 | Research invited talk 1: AM |
+| 10.25 - 10.35 | Research contributed talk 1 (best research paper) |
+| 10.35 - 10.45 | Practical contributed talk/demo 1 | 
+| 10.45 - 11.00 | Coffee break (Main conference coffee break until 11) |
+| 11.00 - 11.30 | Research invited talk 2: DR  |
+| 11.30 - 11.40 | Research contributed talk 2 (best student paper) |
+| 11.40 - 11.50 | Practical contributed talk/demo 2 | 
+| 11.50 - 12.00 | Break + Buffer |
+| 12.00 - 12.30 | Invited talk 3: OB |
+| 12.30 - 1.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 1.00 - 1.15 | Floor discussion | 
+| 1.15 - 2.30 | Lunch (Main conference lunch until 2.30) |
+| 2.30 - 3.20 | Break (Main conference invited talk) |
+| 3.20 - 3.50 | Invited talk 4: SS |
+| 3.50 - 4.00 | Practical Contributed talk/demo 3 (best debugging-in-practice contribution) 
+| 4.00 - 5.00 | Posters & Interactive Demos + Coffee Break|
+| 5.00 - 5.30 | Invited talk 5: SS |
+| 5.30 - 6.10 | Panel on perspectives on debugging |
+| 6.10 - 6.20 | Closing remarks | 
 
 # Program Committee
 
