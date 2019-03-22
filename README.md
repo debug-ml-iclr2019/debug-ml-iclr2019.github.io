@@ -63,19 +63,19 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | 10.25 - 10.35 | Research contributed talk 1 (best research paper) |
 | 10.35 - 10.45 | Practical contributed talk/demo 1 | 
 | 10.45 - 11.00 | Coffee break (Main conference coffee break until 11) |
-| 11.00 - 11.30 | Research invited talk 2: DR  |
+| 11.00 - 11.30 | Research invited talk 2: OB  |
 | 11.30 - 11.40 | Research contributed talk 2 (best student paper) |
 | 11.40 - 11.50 | Practical contributed talk/demo 2 | 
 | 11.50 - 12.00 | Break + Buffer |
-| 12.00 - 12.30 | Invited talk 3: OB |
+| 12.00 - 12.30 | Practical invited talk 3: DR |
 | 12.30 - 1.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
 | 1.00 - 1.15 | Floor discussion | 
 | 1.15 - 2.30 | Lunch (Main conference lunch until 2.30) |
 | 2.30 - 3.20 | Break (Main conference invited talk) |
-| 3.20 - 3.50 | Invited talk 4: SS |
-| 3.50 - 4.00 | Practical Contributed talk/demo 3 (best debugging-in-practice contribution) 
+| 3.20 - 3.50 | Research invited talk 4: SS |
+| 3.50 - 4.00 | Practical contributed talk/demo 3 (best debugging-in-practice contribution) 
 | 4.00 - 5.00 | Posters & Interactive Demos + Coffee Break|
-| 5.00 - 5.30 | Invited talk 5: SS |
+| 5.00 - 5.30 | Research invited talk 5: SS |
 | 5.30 - 6.10 | Panel on perspectives on debugging |
 | 6.10 - 6.20 | Closing remarks | 
 
