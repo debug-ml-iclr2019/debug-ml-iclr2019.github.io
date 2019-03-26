@@ -30,7 +30,7 @@ Topics of interest include but are not limited to:
 - **Submission deadline**: April 1, 2019, 11.59pm Anywhere on Earth (AoE) time
 - **Acceptance notification**: April 12, 2019 (before ICLR registration cancellation deadline)
 - **Camera-ready deadline for accepted extended abstracts**: April 25, 2019
-- **Workshop**: Monday May 6th 09:00 AM – 06:00 PM @ Room R3
+- **Workshop**: Monday May 6th 09:45 AM – 06:30 PM @ Room R3
 
 If you need a visa to travel to the US, consider submitting your work before the submission deadline. Then contact us so that we can fast track reviewing of your work. If you need more time to prepare your submission, please contact us early on and we will see what we can do.
 
@@ -58,27 +58,28 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 
 | Time | Event |
 | --- | --- |
-| 9.50 - 9.55 | Opening remarks |
-| 9.55 - 10.25 | Research invited talk 1: AM |
-| 10.25 - 10.35 | Research contributed talk 1 (best research paper) |
-| 10.35 - 10.45 | Practical contributed talk/demo 1 | 
-| 10.45 - 11.00 | Coffee break (Main conference coffee break until 11) |
-| 11.00 - 11.30 | Research invited talk 2: OB  |
-| 11.30 - 11.40 | Research contributed talk 2 (best student paper) |
-| 11.40 - 11.50 | Practical contributed talk/demo 2 | 
-| 11.50 - 12.00 | Break + Buffer |
-| 12.00 - 12.30 | Practical invited talk 3: DR |
-| 12.30 - 1.00 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 1.00 - 1.15 | Floor discussion | 
-| 1.15 - 2.30 | Lunch (Main conference lunch until 2.30) |
-| 2.30 - 3.20 | Break (Main conference invited talk) |
-| 3.20 - 3.50 | Research invited talk 4: SS |
-| 3.50 - 4.00 | Practical contributed talk/demo 3 (best debugging-in-practice contribution)  |
-| 4.00 - 4.10 | Research contributed talk 3 | 
-| 4.10 - 5.10 | Posters & Interactive Demos + Coffee Break|
-| 5.10 - 5.40 | Research invited talk 5: SS |
-| 5.40 - 6.10 | Panel on perspectives on debugging |
-| 6.10 - 6.20 | Closing remarks | 
+| 9.50 - 10.00 | Opening remarks |
+| 10.00 - 10.30 | Research invited talk 1 |
+| 10.30 - 10.40 | Contributed talk |
+| 10.40 - 10.50 | Contributed talk/demo | 
+| 10.50 - 11.10 | Coffee break (main conference coffee break 10.30-11) |
+| 11.10 - 11.40 | Research invited talk 2 |
+| 11.40 - 11.50 | Contributed talk |
+| 11.50 - 12.00 | Contributed talk/demo | 
+| 12.00 - 12.10 | Break |
+| 12.10 - 12.40 | Research invited talk 2 |
+| 12.40 - 1.00 | Practical invited talk 1 |
+| 1.00 - 2.30 | Lunch (Main conference lunch until 2.30) |
+| 2.30 - 3.20 | Break in workshop schedule (main conference invited talk) |
+| 3.20 - 3.25 | Welcome back remarks |
+| 3.25 - 3.55 | Research invited talk 4 |
+| 3.55 - 4.15 | Practical invited talk 2 |
+| 4.10 - 5.10 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
+| 5.15 - 5.25 | Contributed talk/demo | 
+| 5.25 - 5.55 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 5.55 - 6.15 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
+| 6.15 - 6.25 | Closing remarks |
+| 6.30 | Main conference opening reception |
 
 # Program Committee
 
@@ -151,7 +152,7 @@ Topics of interest are listed below, although we also welcome submissions that d
 - **Submission deadline**: ~~March 1, 2019, 11.59pm~~. March 2, 2019, 11.59pm Pacific Time. If you miss the deadline, email us your submission at debugging.ml@gmail.com and we will consider it on a case-to-case basis.
 - **Acceptance notification**: March 18, 2019 (before ICLR early registration deadline)
 - **Camera-ready submission period** for accepted papers: April 14 - 20, 2019
-- **Workshop**: Monday May 6th 09:00 AM -- 06:00 PM @ Room R3
+- **Workshop**: Monday May 6th 09:45 AM -- 06:30 PM @ Room R3
 
 If you are a student or postdoc, we encourage you to apply for ICLR’s [volunteer](https://iclr.cc/accounts/login/?next=/Volunteers/volunteerapplication) and [travel grants](https://iclr.cc/accounts/login/?next=/TravelApplication) before their March 13 deadline. If you need a visa to travel to the US, consider submitting your paper before the submission deadline. Then contact us so that we can fast track reviewing of your paper. 
 
