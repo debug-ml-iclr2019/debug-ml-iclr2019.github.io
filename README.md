@@ -97,7 +97,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | Cristian Canton (Facebook) | Besmira Nushi (Microsoft Research) |
 | Arthur Choi (UCLA) | Saswat Padhi (UCLA) |
 | Grzegorz Chrupala (Tilburg University) | Emma Pierson (Stanford University) |
-| Sam Corbett-Davies (Stanford University) | Forough Poursabzi-Sangdeh (Microsoft Research) |
+| Sam Corbett-Davies (Facebook) | Forough Poursabzi-Sangdeh (Microsoft Research) |
 | Amit Dhurandhar (IBM Research) | Manish Raghavan (Cornell University) |
 | Samuel Finlayson (Harvard Medical School, MIT) | Ramya Ramakrishnan (MIT) |
 | Tian Gao (IBM Research) | Alexander Ratner (Stanford University) |
@@ -117,7 +117,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | Shalmali Joshi (Vector Institute) | Gilmer Valdes (UCSF) |
 | Yannis Kalantidis (Facebook) | Paroma Varma (Stanford University) |
 | Ece Kamar (Microsoft Research) | Kush Varshney (IBM Research) |
-| Madian Khabsa (Apple) | Fulton Wang (Sandia National Labs) |
+| Madian Khabsa (Facebook) | Fulton Wang (Sandia National Labs) |
 | Heidy Khlaaf (Adelard) | Yang Wang (Uber) |
 | Pang Wei Koh (Stanford University) | Fanny Yang (ETH Zurich) |
 | Josua Krause (Accern) | Jason Yosinski (Uber) |
