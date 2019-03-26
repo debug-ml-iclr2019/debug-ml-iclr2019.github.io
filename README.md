@@ -33,9 +33,10 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - More to come soon, covering the different perspectives of the workshop
 
 ## Contributed Papers
-- [Research track accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA); [Research track call for papers](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
+- Research track: [Accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). [Call for papers](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
+- Debugging-in-Practice Track: Submissions accepted until April 1, 2019. See below for instructions. 
 
-## Call for Talks and Demos for Debugging-in-Practice Track
+# Call for Talks and Demos for Debugging-in-Practice Track
 For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
 Topics of interest include but are not limited to: 
