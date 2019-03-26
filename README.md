@@ -74,7 +74,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | 3.20 - 3.25 | Welcome back remarks |
 | 3.25 - 3.55 | Research invited talk 4 |
 | 3.55 - 4.15 | Practical invited talk 2 |
-| 4.10 - 5.10 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
+| 4.15 - 5.15 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
 | 5.15 - 5.25 | Contributed talk/demo | 
 | 5.25 - 5.55 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
 | 5.55 - 6.15 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
