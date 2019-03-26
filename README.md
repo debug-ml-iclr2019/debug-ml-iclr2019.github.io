@@ -13,6 +13,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 - More to come soon, covering the different perspectives of the workshop
 
+# Accepted papers
+- [Research track](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA)
+
 ## Call for Talks and Demos for Debugging-in-Practice Track
 For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
