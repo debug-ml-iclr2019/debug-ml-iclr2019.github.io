@@ -30,7 +30,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-## Confirmed Invited Speakers & Panelists
+## Invited Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
