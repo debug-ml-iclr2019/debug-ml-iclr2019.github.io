@@ -22,6 +22,14 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
+## Organizers
+- [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
+- [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
+- [Julius Adebayo](http://juliusadebayo.com/) (MIT)
+- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
+- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
+- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
+
 ## Confirmed Invited Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
@@ -33,10 +41,10 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - More to come soon, covering the different perspectives of the workshop
 
 ## Contributed Papers
-- Research track: [Accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). [Call for papers](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
+- Research track: [List of accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). [Call for papers (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
 - Debugging-in-Practice Track: Submissions accepted until April 1, 2019. See below for instructions. 
 
-# Call for Talks and Demos for Debugging-in-Practice Track
+## Call for Talks and Demos for Debugging-in-Practice Track
 For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
 Topics of interest include but are not limited to: 
@@ -65,19 +73,11 @@ If you need a visa to travel to the US, consider submitting your work before the
 - The reviewing process is not blind, hence you do not need to anonymize your submission. Links to software implementations need not be anonymized. 
 - Concurrent submission to other venues is allowed. Work already published or made public in some form will also be considered. 
 
-**An award will be given to the best submission in this track**. Camera-ready versions of extended abstracts will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings.
+Camera-ready versions of extended abstracts will be uploaded to the conference website (unless requested not to), but there will be no formal published proceedings.
 
 Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
-## Organizers
-- [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
-- [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
-- [Julius Adebayo](http://juliusadebayo.com/) (MIT)
-- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
-- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
-- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
-
-# Tentative Schedule
+## Tentative Schedule
 
 | Time | Event |
 | --- | --- |
@@ -103,7 +103,7 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | 5.55 - 6.15 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
 | 6.15 - 6.25 | Closing remarks |
 
-# Program Committee
+## Program Committee
 
 | --- | --- |
 | Samira Abnar (University of Amsterdam) | Lezhi Li (Uber) |
