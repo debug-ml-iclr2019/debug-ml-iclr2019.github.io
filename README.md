@@ -41,7 +41,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - More to come soon, covering the different perspectives of the workshop
 
 ## Contributed Papers
-- Research Track [accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA)
+- Research Track [accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). Note for accepted Research Track authors: if you wish, you may bring an interactive demo to accompany your poster and present both side-by-side at the poster session. 
 - Research Track [call for papers (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
 - Debugging-in-Practice Track: Submissions accepted until April 1, 2019. See instructions below.
 
