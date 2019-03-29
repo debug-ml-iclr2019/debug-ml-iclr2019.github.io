@@ -45,6 +45,13 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - Research Track [call for papers (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
 - Debugging-in-Practice Track: Submissions accepted until April 1, 2019. See instructions below.
 
+## Sponsors
+Thank you to our sponsors!
+
+<a href="https://openai.com/">
+<img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png">
+</a>
+
 ## Call for Talks and Demos for Debugging-in-Practice Track
 For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are encouraged. Accepted submissions will be presented as **talks or interactive demos**. An award will be given to the best submission in this track.
 
