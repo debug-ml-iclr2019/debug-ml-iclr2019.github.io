@@ -82,27 +82,27 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 
 | Time | Event |
 | ---- | ---- |
-| 9.50 - 10.00 | Opening remarks |
-| 10.00 - 10.30 | Research invited talk 1 |
-| 10.30 - 10.40 | Contributed talk |
-| 10.40 - 10.50 | Contributed talk/demo | 
-| 10.50 - 11.10 | Coffee break (main conference coffee break 10.30-11) |
-| 11.10 - 11.40 | Research invited talk 2 |
-| 11.40 - 11.50 | Contributed talk |
-| 11.50 - 12.00 | Contributed talk/demo | 
-| 12.00 - 12.10 | Break |
-| 12.10 - 12.40 | Research invited talk 2 |
-| 12.40 - 1.00 | Practical invited talk 1 |
-| 1.00 - 2.30 | Lunch (Main conference lunch until 2.30) |
-| 2.30 - 3.20 | Break in workshop schedule (main conference invited talk) |
-| 3.20 - 3.25 | Welcome back remarks |
-| 3.25 - 3.55 | Research invited talk 4 |
-| 3.55 - 4.15 | Practical invited talk 2 |
-| 4.15 - 5.15 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
-| 5.15 - 5.25 | Contributed talk/demo | 
-| 5.25 - 5.55 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 5.55 - 6.15 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
-| 6.15 - 6.25 | Closing remarks |
+| 9.50 | Opening remarks |
+| 10.00 | Research invited talk 1 |
+| 10.30 | Contributed talk |
+| 10.40 | Contributed talk/demo | 
+| 10.50 | Coffee break (main conference coffee break 10.30-11) |
+| 11.10 | Research invited talk 2 |
+| 11.40 | Contributed talk |
+| 11.50 | Contributed talk/demo | 
+| 12.00 | Break |
+| 12.10 | Research invited talk 2 |
+| 12.40 | Practical invited talk 1 |
+| 1.00 | Lunch (Main conference lunch until 2.30) |
+| 2.30 | Break in workshop schedule (main conference invited talk) |
+| 3.20 | Welcome back remarks |
+| 3.25 | Research invited talk 4 |
+| 3.55 | Practical invited talk 2 |
+| 4.15 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
+| 5.15 | Contributed talk/demo | 
+| 5.25 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
+| 5.55 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
+| 6.15 | Closing remarks |
 
 ## Sponsors
 <a href="https://openai.com/">
