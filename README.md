@@ -153,3 +153,4 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 | Ram Kumar (Microsoft / Berkman Klein Center) | Muhammad Bilal Zafar (Bosch Center for Artificial Intelligence) |
 | Isaac Lage (Harvard University) | Xuezhou Zhang (University of Wisconsin-Madison) |
 | Finnian Lattimore (Australian National University) | Xin Zhang (MIT) |
+| Marco Tulio Ribeiro (Microsoft Research) | |
