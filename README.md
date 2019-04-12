@@ -55,7 +55,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Schedule
-- Please see [https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c] (https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
+- Please see [https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
 
 ## Sponsors
 <a href="https://openai.com/">
