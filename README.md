@@ -40,10 +40,10 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 
 ## Contributed Talks
-- Simon Kornblith, Mohammad Norouzi, Honglak Lee, Geoffrey Hinton (Google). Similarity of Neural Network Representations Revisited
-- Tomer Arnon, Christopher Lazarus (Stanford), Changliu Liu (CMU), Mykel Kochenderfer (Stanford). NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks
-- Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). Debugging Machine Learning via Model Assertions
-- Michela Paganini (Facebook), Jessica Zosa Forde. The Scientific Method in the Science of Machine Learning
+- Simon Kornblith, Mohammad Norouzi, Honglak Lee, Geoffrey Hinton (Google). _Similarity of Neural Network Representations Revisited_
+- Tomer Arnon, Christopher Lazarus (Stanford), Changliu Liu (CMU), Mykel Kochenderfer (Stanford). _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_
+- Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). _Debugging Machine Learning via Model Assertions_
+- Michela Paganini (Facebook), Jessica Zosa Forde. _The Scientific Method in the Science of Machine Learning_
 - More to be announced from Debugging-in-Practice track
 
 ## Contributed Posters and Demos
