@@ -38,72 +38,24 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
-- More to come soon, covering the different perspectives of the workshop
 
-## Contributed Papers
-- Research Track [accepted papers](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). Note for accepted Research Track authors: if you wish, you may bring an interactive demo to accompany your poster and present both side-by-side at the poster session. 
-- Research Track [call for papers (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
-- Debugging-in-Practice Track: Submissions accepted until April 1, 2019. See instructions below.
+## Contributed Talks
+- Michela Paganini (Facebook), Jessica Zosa Forde. The Scientific Method in the Science of Machine Learning
+- Simon Kornblith, Mohammad Norouzi, Honglak Lee, Geoffrey Hinton (Google). Similarity of Neural Network Representations Revisited
+- Tomer Arnon, Christopher Lazarus (Stanford), Changliu Liu (CMU), Mykel Kochenderfer (Stanford). NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks
+- Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). Debugging Machine Learning via Model Assertions
+- More to be announced from Debugging-in-Practice track
 
-## Call for Talks and Demos for Debugging-in-Practice Track
-For this Debugging-in-Practice track, we solicit work that advances the understanding of issues related to **debugging ML models in practice**. Submissions from industry practitioners are encouraged. Accepted submissions will be presented as **talks or interactive demos**. 
-
-Topics of interest include but are not limited to: 
-
-- **Success and failure stories** from deploying ML models in the real world
-
-- **Software and hardware tools** for model debugging -- demos of tools are welcome and highly encouraged
-
-- Understanding the **domain-specific** nuances of debugging ML models - e.g., debugging ML models in healthcare, criminal justice, public policy, education, and other social good applications
-
-- Best practices for **debugging large-scale ML systems in industry**
-
-### Important Dates
-- **Submission deadline**: April 1, 2019, 11.59pm Anywhere on Earth (AoE) time
-- **Acceptance notification**: April 12, 2019 (before ICLR registration cancellation deadline)
-- **Camera-ready deadline for accepted extended abstracts**: April 25, 2019
-- **Workshop**: Monday May 6th 09:45 AM – 06:30 PM @ Room R3
-
-If you need a visa to travel to the US, consider submitting your work before the submission deadline. Then contact us so that we can fast track reviewing of your work. If you need more time to prepare your submission, please contact us early on and we will see what we can do.
-
-### Submission Instructions
-- Submission page: [https://easychair.org/conferences/?conf=debugml19](https://easychair.org/conferences/?conf=debugml19)
-- In EasyChair, you will be asked to select if you would like to present your work, if accepted, as a talk (7-15 minutes) during a Debugging-in-Practice session at the workshop, or as an interactive demo during a Posters & Demos session, or both.
-- Submit extended abstracts of 1 page (not including references, and an optional appendix) using any template with minimum 10 point font and page margins of at least 0.8 inches. The 1-page limit is strict, but references and optional appendix (e.g. for screenshots, video links, etc.) can be as many pages as needed. As reviewers may not read the optional appendix, the extended abstract should standalone. 
-- See [advice on writing an extended abstract](https://www.cs.indiana.edu/icfp96/advice.html).
-- If you intend to present your work as a demo, we strongly encourage you to provide screenshots of the demo in the optional appendix, with references to the screenshots as appropriate in the text of the extended abstract. 
-- The reviewing process is not blind, hence you do not need to anonymize your submission. Links to software implementations  need not be anonymized. 
-- All submitted materials will be kept confidential; reviewers will be asked to not distribute or discuss submitted materials without the authorization of the authors or the organizing committee, and will be asked to delete submitted material after reviewing. 
-- Camera-ready versions of extended abstracts will be uploaded to the conference website if permitted by the authors. There will be no formal published proceedings.
-- Concurrent submission to other venues is allowed. Work already published or made public in some form will also be considered. 
+## Contributed Posters and Demos
+- Research Track [accepted posters](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). Note for accepted Research Track authors: if you wish, you may bring an interactive demo to accompany your poster and present both side-by-side at the poster session. 
+- Research Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
+- Debugging-in-Practice Track accepted demos: to be announced
+- Debugging-in-Practice Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo)
 
 Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
-## Tentative Schedule
-
-| Time | Event |
-| ---- | ---- |
-| 9.50 | Opening remarks |
-| 10.00 | Research invited talk 1 |
-| 10.30 | Contributed talk |
-| 10.40 | Contributed talk/demo | 
-| 10.50 | Coffee break (main conference coffee break 10.30-11) |
-| 11.10 | Research invited talk 2 |
-| 11.40 | Contributed talk |
-| 11.50 | Contributed talk/demo | 
-| 12.00 | Break |
-| 12.10 | Research invited talk 2 |
-| 12.40 | Practical invited talk 1 |
-| 1.00 | Lunch (Main conference lunch until 2.30) |
-| 2.30 | Break in workshop schedule (main conference invited talk) |
-| 3.20 | Welcome back remarks |
-| 3.25 | Research invited talk 4 |
-| 3.55 | Practical invited talk 2 |
-| 4.15 | Posters & Interactive Demos + Coffee Break (main conference coffee break 4-4.30)|
-| 5.15 | Contributed talk/demo | 
-| 5.25 | Opinion piece (Cynthia Rudin): Interpretability and debugging? |
-| 5.55 | Floor discussion for opinion piece + informal panel on perspectives on debugging | 
-| 6.15 | Closing remarks |
+## Schedule
+- Please see https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c (https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
 
 ## Sponsors
 <a href="https://openai.com/">
