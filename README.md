@@ -31,7 +31,8 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
-Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
+
+Contact info: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 
 ## Invited Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
@@ -62,6 +63,9 @@ Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questio
 <a href="https://openai.com/">
 <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="50%" height="auto">
 </a>
+
+## Contact Us
+Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Program Committee
 
