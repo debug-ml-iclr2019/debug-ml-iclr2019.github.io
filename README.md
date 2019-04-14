@@ -22,6 +22,8 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
+See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZTzU0x98wB-NxvQ_yd-pFbplEzE).
+
 ## Organizers
 - [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
 - [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)
@@ -29,6 +31,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
+Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Invited Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
@@ -51,8 +54,6 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - Research Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
 - Debugging-in-Practice Track accepted demos: to be announced
 - Debugging-in-Practice Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo)
-
-Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Schedule
 - Please see [https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
