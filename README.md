@@ -32,7 +32,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-Contact info: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
+Contact us: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 
 ## Invited Speakers & Panelists
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
@@ -57,7 +57,7 @@ Contact info: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 - Debugging-in-Practice Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo)
 
 ## Schedule
-- Please see [https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
+- See [https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c)
 
 ## Sponsors
 <a href="https://openai.com/">
@@ -65,7 +65,7 @@ Contact info: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 </a>
 
 ## Contact Us
-Please email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
+Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Program Committee
 
