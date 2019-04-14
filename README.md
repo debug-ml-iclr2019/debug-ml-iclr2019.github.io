@@ -22,6 +22,8 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 - **Best practices** for debugging large-scale ML systems: What are standardized best practices for debugging large-scale ML systems? What are existing tools, software, and hardware, and how might they be improved? 
 
+- **Domain-specific nuances** of debugging ML models in healthcare, criminal justice, public policy, education, and other social good applications.
+
 See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZTzU0x98wB-NxvQ_yd-pFbplEzE).
 
 ## Organizers
