@@ -50,7 +50,8 @@ Contact us: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 - Tomer Arnon, Christopher Lazarus (Stanford), Changliu Liu (CMU), Mykel Kochenderfer (Stanford). _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_
 - Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). _Debugging Machine Learning via Model Assertions_
 - Michela Paganini (Facebook), Jessica Zosa Forde. _The Scientific Method in the Science of Machine Learning_
-- More to be announced from Debugging-in-Practice track
+- Benjamin Link, Eric Lawrence and Rosemarie Scott (Indeed). Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration
+- Besmira Nushi, Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah (Microsoft). Error terrain analysis for machine learning: Tool and visualizations
 
 ## Contributed Posters and Demos
 - Research Track [accepted posters](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). Note for accepted Research Track authors: if you wish, you may bring an interactive demo to accompany your poster and present both side-by-side at the poster session. 
