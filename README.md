@@ -46,12 +46,12 @@ Contact us: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 
 ## Contributed Talks
-- Simon Kornblith, Mohammad Norouzi, Honglak Lee, Geoffrey Hinton (Google). _Similarity of Neural Network Representations Revisited_
-- Tomer Arnon, Christopher Lazarus (Stanford), Changliu Liu (CMU), Mykel Kochenderfer (Stanford). _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_
-- Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). _Debugging Machine Learning via Model Assertions_
-- Michela Paganini (Facebook), Jessica Zosa Forde. _The Scientific Method in the Science of Machine Learning_
-- Benjamin Link, Eric Lawrence and Rosemarie Scott (Indeed). _Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration_
-- Besmira Nushi, Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah (Microsoft). _Error terrain analysis for machine learning: Tool and visualizations_
+- _Similarity of Neural Network Representations Revisited_. **Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google)
+- _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford)
+- _Debugging Machine Learning via Model Assertions_. **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford)
+- _The Scientific Method in the Science of Machine Learning_. Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook)
+- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft)
+- Improving jobseeker-employer match models at Indeed through process, visualization, and exploration. **Benjamin Link**, Eric Lawrence and Rosemarie Scott (Indeed)
 
 ## Contributed Posters and Demos
 - Research Track [accepted posters](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA)
