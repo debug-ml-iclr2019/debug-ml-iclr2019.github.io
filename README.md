@@ -54,9 +54,9 @@ Contact us: [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com)
 - Besmira Nushi, Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah (Microsoft). _Error terrain analysis for machine learning: Tool and visualizations_
 
 ## Contributed Posters and Demos
-- Research Track [accepted posters](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA). Note for accepted Research Track authors: if you wish, you may bring an interactive demo to accompany your poster and present both side-by-side at the poster session. 
+- Research Track [accepted posters](https://docs.google.com/document/d/1yfyekuaF6Yb2O3nDNtDk5-EbHlpOAF3FS-G5dHoGMZA)
 - Research Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto)
-- Debugging-in-Practice Track accepted demos: to be announced
+- Debugging-in-Practice Track [accepted demos](https://docs.google.com/document/d/1W-hWIDXoId-QcZKcBkU6b2M482dNwAEvU0BzfhEXNyA/edit?usp=sharing)
 - Debugging-in-Practice Track [call for submissions (deadline now passed)](https://docs.google.com/document/d/1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo)
 
 ## Schedule
