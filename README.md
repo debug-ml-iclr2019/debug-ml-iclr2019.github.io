@@ -4,13 +4,13 @@ Machine learning (ML) models are increasingly being employed to make highly cons
 The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. 
 
 ## Invited Speakers
-- [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
-- [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
-- [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
+- [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
+- [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 - [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
+- [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 
 ## Schedule
 
@@ -36,7 +36,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 4.20 - 4.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Talk: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Talk: **Cynthia Rudin** (Duke University).|
-| 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana**. <br> Panelists: Cynthia Rudin, Deborah Raji, Suchi Saria, Aleksander Madry, Dan Moldovan, Osbert Bastani, Sameer Singh|
+| 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana**. <br> Panelists: Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria |
 | 6.25 - 6.30 | Closing Remarks.|
 
 ## Contributed Posters (Research Track)
