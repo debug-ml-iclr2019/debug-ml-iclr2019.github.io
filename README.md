@@ -1,7 +1,7 @@
 # Overview
 Machine learning (ML) models are increasingly being employed to make highly consequential decisions pertaining to employment, bail, parole, and lending. While such models can learn from large amounts of data and are often very scalable, their applicability is limited by certain safety challenges. A key challenge is identifying and correcting systematic patterns of mistakes made by ML models before deploying them in the real world.
 
-The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. Topics of interest are listed below.
+The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. 
 
 ## Confirmed Speakers
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
@@ -20,7 +20,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 10.00 - 10.30 | Invited Talk: **Aleksander Madry** (MIT). |
 | 10:30 - 10:40 | Contributed Talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
-| 10.50 - 11.10| **Coffee Break** |
+| 10.50 - 11.10| Coffee Break |
 | 11.10 - 11.40 | Invited Talk: **Osbert Bastani** (University of Pennsylvania). |
 | 10:40 - 10:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
 | 10:50 - 12:00 | Contributed Talk:  *Improving jobseeker-employer match models at Indeed through process, visualization, and exploration.* <br> **Benjamin Link**, Eric Lawrence, & Rosemarie Scott (Indeed). |
@@ -29,21 +29,18 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 12.40 - 1.00 | Invited Talk: **Deborah Raji** (University of Toronto). |
 | 1.00 - 1:10 | Contributed Talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
 | 1.10 - 2.20| Lunch |
-| 2.30 - 3.20 | Break: Main conference Leon Bottou invited talk.|
+| 2.30 - 3.20 | Break |
 | 3.20 - 3.30 | Welcome back remarks |
 | 3.30 - 4.00| Invited Talk: **Suchi Saria** (Johns Hopkins University). |
 | 4.00 - 4.20| Invited Talk: **Dan Moldovan** (Google). |
-| 4.20 - 4.20| **Posters & Demos** |
+| 4.20 - 4.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Talk: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Talk: **Cynthia Rudin** (Duke University).|
 | 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana**. <br> Panelists: **Cynthia Rudin, Deborah Raji, Suchi Saria, Aleksander Madry, Dan Moldovan, Osbert Bastani, Sameer Singh**|
 | 6.25 - 6.30 | Closing Remarks.|
 
 ## Contributed Posters (Research Track)
-- _Similarity of Neural Network Representations Revisited_. Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk)
-- _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk)
-- _Debugging Machine Learning via Model Assertions_. Daniel Kang*, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk)
-- _The Scientific Method in the Science of Machine Learning_. Jessica Zosa Forde and Michela Paganini* (Contributed talk)
+[Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
 - _Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation_. Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
 - _Calibration of Encoder Decoder Models for Neural Machine Translation_. Aviral Kumar and Sunita Sarawagi.
 - _Step-wise Sensitivity Analysis: Identifying Partially Distributed Representations for Interpretable Deep Learning_. Botty Dimanov and Mateja Jamnik
@@ -63,10 +60,13 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - _Universal Multi-Party Poisoning Attacks_. Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
 - _Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift_. Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
 - _Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness_. Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
+- _Similarity of Neural Network Representations Revisited_. Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
+- _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk).
+- _Debugging Machine Learning via Model Assertions_. Daniel Kang*, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
+- _The Scientific Method in the Science of Machine Learning_. Jessica Zosa Forde and Michela Paganini* (Contributed talk).
 
 ## Contributed Demos (Debugging-in-Practice Track)
-- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi* (Contributed talk).
-- _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link*, Eric Lawrence and Rosemarie Scott (Contributed talk).
+[Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
 - _Operationalising Risk Management for Machine Learning_. Daniel First (Quantum Black).
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
@@ -77,6 +77,8 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - _Debuggable Machine Learning with ConX and Comet.ml_. Cecelia Shao and Douglas Blank.
 - _Evidence Based Debugging with DRL-Monitor_. Giang Dao and Minwoo Lee.
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
+- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi* (Contributed talk).
+- _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link*, Eric Lawrence and Rosemarie Scott (Contributed talk).
 
 ### Workshop Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
