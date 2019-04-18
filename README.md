@@ -15,7 +15,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 ## Schedule
 
 | Time | Event |
-| ---- | ----|
+| ----- | -------|
 | 9.50 - 10:00 | Opening Remarks |
 | 10.00 - 10.30 | **Invited Talk**: Aleksander Madry (MIT). |
 | 10:30 - 10:40 | **Contributed Talk**: *Similarity of Neural Network Representations Revisited.*<br>Simon Kornblith, Mohammed Nourouzi, Honglak Lee, Geoffrey Hinton (Google).|
@@ -34,7 +34,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 3.30 - 4.00| **Invited Talk**: Suchi Saria (Johns Hopkins University). |
 | 4.00 - 4.20| **Invited Talk**: Dan Moldovan (Google). |
 | 4.20 - 4.20| **Posters & Demos** |
-| 5.20 - 5.30 | **Contributed Talk**: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forder (Project Jupyter), Michela Paganini (Facebook). |
+| 5.20 - 5.30 | **Contributed Talk**: *The Scientific Methsod in the Science of Machine Learning.* <br> Jessica Zosa Forder (Project Jupyter), Michela Paganini (Facebook). |
 | 5.30 - 6.00 | **Invited Talk**: Cynthia Rudin (Duke University).|
 | 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> **Moderator**: Rich Caruana. <br> **Panelists**: Cynthia Rudin, Deborah Raji, Suchi Saria, Aleksander Madry, Dan Moldovan, Osbert Bastani, Sameer Singh|
 | 6.25 - 6.30 | **Closing Remarks.**|
