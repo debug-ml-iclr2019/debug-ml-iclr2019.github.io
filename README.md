@@ -12,7 +12,8 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 
-## Schedule
+## Schedule 
+See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
 
 | Time | Event |
 | ----- | -------|
