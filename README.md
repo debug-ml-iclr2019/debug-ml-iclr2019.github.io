@@ -16,23 +16,23 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 
 | Time | Event |
 | ---- | ----|
-| 9.59 - 10:00 | Opening Remarks |
-| 10.00 - 10.30 | **Invited Talk**: Aleksander Madry (MIT) |
+| 9.50 - 10:00 | Opening Remarks |
+| 10.00 - 10.30 | **Invited Talk**: Aleksander Madry (MIT). |
 | 10:30 - 10:40 | **Contributed Talk**: *Similarity of Neural Network Representations Revisited.*<br>Simon Kornblith, Mohammed Nourouzi, Honglak Lee, Geoffrey Hinton (Google).|
-| 10.40 - 10:50 | **Contributed Talk**: *Error terrain analysis for machine learning: Tool and visualizations*<br> Barraza et. al. (Microsoft) |
+| 10.40 - 10:50 | **Contributed Talk**: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Barraza et. al. (Microsoft). |
 | 10.50 - 11.10| **Coffee Break** |
-| 11.10 - 11.40 | **Invited Talk**: Osbert Bastani (University of Pennsylvania) |
-| 10:40 - 10:50 | **Contributed Talk**: *Debugging Machine Learning via Model Assertions*<br> Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
-| 10:50 - 12:00 | **Contributed Talk**:  *Improving Jobseeker-Employer Match models at  Indeed Through Process, Visualization, and Exploration.* <br> Benjamin Link, Eric Lawrence, & Rosemarie Scott (Indeed). |
+| 11.10 - 11.40 | **Invited Talk**: Osbert Bastani (University of Pennsylvania). |
+| 10:40 - 10:50 | **Contributed Talk**: *Debugging Machine Learning via Model Assertions.*<br> Daniel Kang, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
+| 10:50 - 12:00 | **Contributed Talk**:  *Improving Jobseeker-Employer Match models at Indeed Through Process, Visualization, and Exploration.* <br> Benjamin Link, Eric Lawrence, & Rosemarie Scott (Indeed). |
 | 12.00 - 12.10| Break|
-| 11.10 - 11.40 | **Invited Talk**: Sameer Singh (University of California Irvine) |
-| 12.40 - 1.00 | **Invited Talk**: Deborah Raji (University of Toronto) |
+| 11.10 - 11.40 | **Invited Talk**: Sameer Singh (University of California Irvine). |
+| 12.40 - 1.00 | **Invited Talk**: Deborah Raji (University of Toronto). |
 | 1.00 - 1:10 | **Contributed Talk**: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), Tomer Arnon, Christopher Lazarus, Mykel Kochenderfer (Stanford).|
 | 1.10 - 2.20| Lunch |
 | 2.30 - 3.20 | Break: Main conference Leon Bottou invited talk.|
 | 3.20 - 3.30 | Welcome back remarks |
-| 3.30 - 4.00| **Invited Talk**: Suchi Saria (Johns Hopkins University) |
-| 4.00 - 4.20| **Invited Talk**: Dan Moldovan (Google) |
+| 3.30 - 4.00| **Invited Talk**: Suchi Saria (Johns Hopkins University). |
+| 4.00 - 4.20| **Invited Talk**: Dan Moldovan (Google). |
 | 4.20 - 4.20| **Posters & Demos** |
 | 5.20 - 5.30 | **Contributed Talk**: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forder (Project Jupyter), Michela Paganini (Facebook). |
 | 5.30 - 6.00 | **Invited Talk**: Cynthia Rudin (Duke University).|
