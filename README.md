@@ -13,6 +13,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 
 ## Schedule
+
 | Time | Event |
 | --- | --- |
 | 9.59 - 10:00 | Opening Remarks |
