@@ -36,7 +36,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 | 4.20 - 4.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Talk: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Talk: **Cynthia Rudin** (Duke University).|
-| 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana**. <br> Panelists: Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria |
+| 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana** (Microsoft Research). <br> Panelists: Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria |
 | 6.25 - 6.30 | Closing Remarks.|
 
 ## Contributed Posters (Research Track)
