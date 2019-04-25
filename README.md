@@ -22,19 +22,19 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 10:30 - 10:40 | Contributed Talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 - 11.10| Coffee Break |
-| 11.10 - 11.40 | Invited Talk: **Osbert Bastani** (University of Pennsylvania). |
-| 10:40 - 10:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
-| 10:50 - 12:00 | Contributed Talk:  *Improving jobseeker-employer match models at Indeed through process, visualization, and exploration.* <br> **Benjamin Link**, Eric Lawrence, & Rosemarie Scott (Indeed). |
+| 11.10 - 11.40 | Invited Talk: *Verifiable Reinforcement Learning via Policy Extraction,*<br> **Osbert Bastani** (University of Pennsylvania). |
+| 11:40 - 11:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
+| 11:50 - 12:00 | Contributed Talk:  *Improving jobseeker-employer match models at Indeed through process, visualization, and exploration.* <br> **Benjamin Link**, Eric Lawrence, & Rosemarie Scott (Indeed). |
 | 12.00 - 12.10| Break|
-| 11.10 - 11.40 | Invited Talk: **Sameer Singh** (University of California Irvine). |
+| 12.10 - 12.40 | Invited Talk: **Sameer Singh** (University of California Irvine). |
 | 12.40 - 1.00 | Invited Talk: **Deborah Raji** (University of Toronto). |
 | 1.00 - 1:10 | Contributed Talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
-| 1.10 - 2.20| Lunch |
+| 1.10 - 2.30| Lunch |
 | 2.30 - 3.20 | Break |
 | 3.20 - 3.30 | Welcome back remarks |
 | 3.30 - 4.00| Invited Talk: **Suchi Saria** (Johns Hopkins University). |
 | 4.00 - 4.20| Invited Talk: **Dan Moldovan** (Google). |
-| 4.20 - 4.20| **Posters & Demos** & Coffee Break |
+| 4.20 - 5.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Talk: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Talk: **Cynthia Rudin** (Duke University).|
 | 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana** (Microsoft Research). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
@@ -68,7 +68,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
-- _Operationalising Risk Management for Machine Learning_. Daniel First (Quantum Black).
+- _Operationalising Risk Management for Machine Learning_. Daniel First.
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - _Building Models for Mobile Video Understanding_. Franck Ngamkan and Geneviève Patterson.
 - _Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention_. Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
