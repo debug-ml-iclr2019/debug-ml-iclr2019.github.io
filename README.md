@@ -22,7 +22,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 10:30 - 10:40 | Contributed Talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 - 11.10| Coffee Break |
-| 11.10 - 11.40 | Invited Talk: *Verifiable Reinforcement Learning via Policy Extraction,*<br> **Osbert Bastani** (University of Pennsylvania). |
+| 11.10 - 11.40 | Invited Talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
 | 11:40 - 11:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
 | 11:50 - 12:00 | Contributed Talk:  *Improving jobseeker-employer match models at Indeed through process, visualization, and exploration.* <br> **Benjamin Link**, Eric Lawrence, & Rosemarie Scott (Indeed). |
 | 12.00 - 12.10| Break|
