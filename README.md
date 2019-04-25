@@ -64,7 +64,6 @@ Posters are listed in random order.
 - _Dissecting Pruned Neural Networks_. Jonathan Frankle and David Bau.
 - _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk)
 - _Monitoring Opaque Learning Systems_. Leilani Gilpin.
-- _Detecting Deep Neural Network Data Corruption With Interpretability Methods_. Maithra Raghu, Samy Bengio and Chris Olah.
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 - _Model Agnostic Globally Interpretable Explanations_. Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
 - _Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded_. Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
