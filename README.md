@@ -52,29 +52,29 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - _BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model_. Jesse Vig.
 - _Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients_. Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
 - _Dissecting Pruned Neural Networks_. Jonathan Frankle and David Bau.
-- _Monitoring Opaque Learning Systems_. Leilani Gilpin.
+- [Monitoring Opaque Learning Systems](cameraready/DebugML-19_paper_25.pdf). Leilani Gilpin.
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 - _Model Agnostic Globally Interpretable Explanations_. Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
 - _Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded_. Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
 - _Debugging Trained Machine Learning Models Using Flip Points_. Roozbeh Yousefzadeh and Dianne O'Leary.
 - _Universal Multi-Party Poisoning Attacks_. Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
-- _Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift_. Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
+- [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](cameraready/DebugML-19_paper_20.pdf). Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
 - _Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness_. Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
 - _Similarity of Neural Network Representations Revisited_. Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
 - _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk).
 - _Debugging Machine Learning via Model Assertions_. Daniel Kang*, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
-- _The Scientific Method in the Science of Machine Learning_. Jessica Zosa Forde and Michela Paganini* (Contributed talk).
+- [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini* (Contributed talk).
 
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
 - _Operationalising Risk Management for Machine Learning_. Daniel First.
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
-- _Building Models for Mobile Video Understanding_. Franck Ngamkan and Geneviève Patterson.
+- [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
 - _Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention_. Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
-- _Adversarial Examples for Electrocardiograms_. Xintian Han, Yuxuan Hu, Luca Foschini, Lior Jankelson and Rajesh Ranganath.
+- [Adversarial Examples for Electrocardiograms](cameraready/DebugML-19_paper_36.pdf). Xintian Han, Yuxuan Hu, Luca Foschini, Lior Jankelson and Rajesh Ranganath.
 - _Black Box Attacks with Shadow Transformers_. Vedant Misra
-- _Debuggable Machine Learning with ConX and Comet.ml_. Cecelia Shao and Douglas Blank.
+- [Debuggable Machine Learning with ConX and Comet.ml](cameraready/DebugML-19_paper_38.pdf). Cecelia Shao and Douglas Blank.
 - _Evidence Based Debugging with DRL-Monitor_. Giang Dao and Minwoo Lee.
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
 - _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi* (Contributed talk).
