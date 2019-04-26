@@ -42,26 +42,26 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 
 ## Contributed Posters (Research Track)
 [Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
-- _Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation_. Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
-- _Calibration of Encoder Decoder Models for Neural Machine Translation_. Aviral Kumar and Sunita Sarawagi.
-- _Step-wise Sensitivity Analysis: Identifying Partially Distributed Representations for Interpretable Deep Learning_. Botty Dimanov and Mateja Jamnik
-- _Handling Bias in AI Using Simulation_. Daniel McDuff, Roger Cheng and Ashish Kapoor
+- [Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation](cameraready/DebugML-19_paper_3.pdf). Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
+- [Calibration of Encoder Decoder Models for Neural Machine Translation](cameraready/DebugML-19_paper_12.pdf). Aviral Kumar and Sunita Sarawagi.
+- [Step-wise Sensitivity Analysis: Identifying Partially Distributed Representations for Interpretable Deep Learning](cameraready/DebugML-19_paper_7.pdf). Botty Dimanov and Mateja Jamnik
+- [Handling Bias in AI Using Simulation](cameraready/DebugML-19_paper_13.pdf). Daniel McDuff, Roger Cheng and Ashish Kapoor
 - _Inverting Layers of a Large Generator_. David Bau, Jun-Yan Zhu, William Peebles, Hendrik Strobelt, Jonas Wulff, Bolei Zhou and Antonio Torralba
 - [MAST: A Tool for Visualizing CNN Model Architecture Searches](cameraready/DebugML-19_paper_24.pdf). Dylan Cashman, Adam Perer and Hendrik Strobelt.
 - _Visualizations of Decision Regions in the Presence of Adversarial Examples_. Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
-- _BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model_. Jesse Vig.
-- _Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients_. Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
+- [BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model](cameraready/DebugML-19_paper_2.pdf). Jesse Vig.
+- [Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients](cameraready/DebugML-19_paper_4.pdf). Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
 - _Dissecting Pruned Neural Networks_. Jonathan Frankle and David Bau.
 - [Monitoring Opaque Learning Systems](cameraready/DebugML-19_paper_25.pdf). Leilani Gilpin.
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
-- _Model Agnostic Globally Interpretable Explanations_. Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
+- [Model Agnostic Globally Interpretable Explanations](cameraready/DebugML-19_paper_5.pdf). Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
 - _Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded_. Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
-- _Debugging Trained Machine Learning Models Using Flip Points_. Roozbeh Yousefzadeh and Dianne O'Leary.
-- _Universal Multi-Party Poisoning Attacks_. Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
+- [Debugging Trained Machine Learning Models Using Flip Points](cameraready/DebugML-19_paper_11.pdf). Roozbeh Yousefzadeh and Dianne O'Leary.
+- [Universal Multi-Party Poisoning Attacks](cameraready/DebugML-19_paper_16.pdf). Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
 - [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](cameraready/DebugML-19_paper_20.pdf). Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
-- _Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness_. Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
-- _Similarity of Neural Network Representations Revisited_. Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
-- _NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks_. Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk).
+- [Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness](cameraready/DebugML-19_paper_19.pdf). Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
+- [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
+- [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk).
 - _Debugging Machine Learning via Model Assertions_. Daniel Kang*, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
 - [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini* (Contributed talk).
 
