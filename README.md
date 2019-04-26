@@ -47,7 +47,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - _Step-wise Sensitivity Analysis: Identifying Partially Distributed Representations for Interpretable Deep Learning_. Botty Dimanov and Mateja Jamnik
 - _Handling Bias in AI Using Simulation_. Daniel McDuff, Roger Cheng and Ashish Kapoor
 - _Inverting Layers of a Large Generator_. David Bau, Jun-Yan Zhu, William Peebles, Hendrik Strobelt, Jonas Wulff, Bolei Zhou and Antonio Torralba
-- _MAST: A Tool for Visualizing CNN Model Architecture Searches_. Dylan Cashman, Adam Perer and Hendrik Strobelt.
+- [MAST: A Tool for Visualizing CNN Model Architecture Searches](cameraready/DebugML-19_paper_24.pdf). Dylan Cashman, Adam Perer and Hendrik Strobelt.
 - _Visualizations of Decision Regions in the Presence of Adversarial Examples_. Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
 - _BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model_. Jesse Vig.
 - _Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients_. Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
