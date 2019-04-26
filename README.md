@@ -68,7 +68,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
-- [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First⇤ and QuantumBlack contributors.
+- [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First and QuantumBlack contributors.
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
 - [Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention](cameraready/DebugML-19_paper_34.pdf). Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
