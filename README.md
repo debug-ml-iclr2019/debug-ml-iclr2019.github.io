@@ -68,14 +68,14 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
-- _Operationalising Risk Management for Machine Learning_. Daniel First.
+- [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First⇤ and QuantumBlack contributors.
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
-- _Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention_. Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
+- [Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention](cameraready/DebugML-19_paper_34.pdf). Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
 - [Adversarial Examples for Electrocardiograms](cameraready/DebugML-19_paper_36.pdf). Xintian Han, Yuxuan Hu, Luca Foschini, Lior Jankelson and Rajesh Ranganath.
 - _Black Box Attacks with Shadow Transformers_. Vedant Misra
 - [Debuggable Machine Learning with ConX and Comet.ml](cameraready/DebugML-19_paper_38.pdf). Cecelia Shao and Douglas Blank.
-- _Evidence Based Debugging with DRL-Monitor_. Giang Dao and Minwoo Lee.
+- [Evidence Based Debugging with DRL-Monitor](cameraready/DebugML-19_paper_39.pdf). Giang Dao and Minwoo Lee.
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
 - _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
 - _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link, Eric Lawrence and Rosemarie Scott (Contributed talk).
