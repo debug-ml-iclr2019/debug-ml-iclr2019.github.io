@@ -33,7 +33,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 2.30 - 3.20 | Break |
 | 3.20 - 3.30 | Welcome back remarks |
 | 3.30 - 4.00| Invited Talk: **Suchi Saria** (Johns Hopkins University). |
-| 4.00 - 4.20| Invited Talk: **Dan Moldovan** (Google). |
+| 4.00 - 4.20| Invited Talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
 | 4.20 - 5.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Position Paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Opinion Piece: *Don't debug your black box, replace it.*<br> **Cynthia Rudin** (Duke University).|
