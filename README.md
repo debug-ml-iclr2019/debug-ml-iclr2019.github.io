@@ -60,10 +60,10 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Universal Multi-Party Poisoning Attacks](cameraready/DebugML-19_paper_16.pdf). Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
 - [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](cameraready/DebugML-19_paper_20.pdf). Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
 - [Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness](cameraready/DebugML-19_paper_19.pdf). Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
-- [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith*, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
-- [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon*, Christopher Lazarus* and Mykel Kochenderfer (Contributed talk).
-- _Debugging Machine Learning via Model Assertions_. Daniel Kang*, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
-- [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini* (Contributed talk).
+- [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
+- [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon, Christopher Lazarus and Mykel Kochenderfer (Contributed talk).
+- _Debugging Machine Learning via Model Assertions_. Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
+- [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
 
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
@@ -77,8 +77,8 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Debuggable Machine Learning with ConX and Comet.ml](cameraready/DebugML-19_paper_38.pdf). Cecelia Shao and Douglas Blank.
 - _Evidence Based Debugging with DRL-Monitor_. Giang Dao and Minwoo Lee.
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
-- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi* (Contributed talk).
-- _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link*, Eric Lawrence and Rosemarie Scott (Contributed talk).
+- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
+- _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link, Eric Lawrence and Rosemarie Scott (Contributed talk).
 
 ## Workshop Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
