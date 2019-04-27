@@ -23,8 +23,8 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 - 11.10| Coffee Break |
 | 11.10 - 11.40 | Invited Talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
-| 11:40 - 11:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis, Matei Zaharia (Stanford). |
-| 11:50 - 12:00 | Contributed Talk:  *Improving jobseeker-employer match models at Indeed through process, visualization, and exploration.* <br> **Benjamin Link**, Eric Lawrence, & Rosemarie Scott (Indeed). |
+| 11:40 - 11:50 | Contributed Talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford). |
+| 11:50 - 12:00 | Contributed Talk:  *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration.* <br> **Benjamin Link**, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Indeed). |
 | 12.00 - 12.10| Break|
 | 12.10 - 12.40 | Invited Talk: **Sameer Singh** (University of California Irvine). |
 | 12.40 - 1.00 | Invited Talk: **Deborah Raji** (University of Toronto). |
@@ -35,7 +35,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 3.30 - 4.00| Invited Talk: **Suchi Saria** (Johns Hopkins University). |
 | 4.00 - 4.20| Invited Talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
 | 4.20 - 5.20| **Posters & Demos** & Coffee Break |
-| 5.20 - 5.30 | Contributed Position Paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter), **Michela Paganini** (Facebook). |
+| 5.20 - 5.30 | Contributed Position Paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
 | 5.30 - 6.00 | Invited Opinion Piece: *Don't debug your black box, replace it.*<br> **Cynthia Rudin** (Duke University).|
 | 6.00 - 6.25 | **Q&A/Panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Rich Caruana** (Microsoft Research). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
 | 6.25 - 6.30 | Closing Remarks.|
@@ -78,7 +78,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Evidence Based Debugging with DRL-Monitor](cameraready/DebugML-19_paper_39.pdf). Giang Dao and Minwoo Lee.
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
 - _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
-- _Improving jobseeker-employer match models at Indeed through process, visualization, and exploration_. Benjamin Link, Eric Lawrence and Rosemarie Scott (Contributed talk).
+- [Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration](cameraready/DebugML-19_paper_40.pdf). Benjamin Link, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Contributed talk).
 
 ## Workshop Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
