@@ -15,6 +15,16 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 ## Schedule 
 See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
 
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
+
 | Time | Event |
 | ----- | -------|
 | 9.50 - 10:00 | Opening Remarks |
