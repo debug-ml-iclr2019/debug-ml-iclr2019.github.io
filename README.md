@@ -62,7 +62,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness](cameraready/DebugML-19_paper_19.pdf). Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
 - [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
 - [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon, Christopher Lazarus and Mykel Kochenderfer (Contributed talk).
-- _Debugging Machine Learning via Model Assertions_. Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
+- [Debugging Machine Learning via Model Assertions](cameraready/DebugML-19_paper_27.pdf). Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
 - [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
 
 ## Contributed Demos (Debugging-in-Practice Track)
