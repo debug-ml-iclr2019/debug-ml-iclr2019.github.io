@@ -15,20 +15,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 ## Schedule 
 See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
 
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
-
 | Time | Event |
 | ----- | -------|
 | 9.50 - 10:00 | Opening Remarks |
-| Session 1 - Chair: Julius Adebayo (MIT) ||
 | 10.00 - 10.30 | Invited Talk: **Aleksander Madry** (MIT). |
 | 10:30 - 10:40 | Contributed Talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
