@@ -51,7 +51,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Visualizations of Decision Regions in the Presence of Adversarial Examples](cameraready/DebugML-19_paper_6.pdf). Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
 - [BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model](cameraready/DebugML-19_paper_2.pdf). Jesse Vig.
 - [Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients](cameraready/DebugML-19_paper_4.pdf). Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
-- _Dissecting Pruned Neural Networks_. Jonathan Frankle and David Bau.
+- [Dissecting Pruned Neural Networks](cameraready/DebugML-19_paper_15.pdf). Jonathan Frankle and David Bau.
 - [Monitoring Opaque Learning Systems](cameraready/DebugML-19_paper_25.pdf). Leilani Gilpin.
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 - [Model Agnostic Globally Interpretable Explanations](cameraready/DebugML-19_paper_5.pdf). Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
