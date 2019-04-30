@@ -48,7 +48,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Handling Bias in AI Using Simulation](cameraready/DebugML-19_paper_13.pdf). Daniel McDuff, Roger Cheng and Ashish Kapoor
 - [Inverting Layers of a Large Generator](cameraready/DebugML-19_paper_18.pdf). David Bau, Jun-Yan Zhu, William Peebles, Hendrik Strobelt, Jonas Wulff, Bolei Zhou and Antonio Torralba
 - [MAST: A Tool for Visualizing CNN Model Architecture Searches](cameraready/DebugML-19_paper_24.pdf). Dylan Cashman, Adam Perer and Hendrik Strobelt.
-- _Visualizations of Decision Regions in the Presence of Adversarial Examples_. Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
+- [Visualizations of Decision Regions in the Presence of Adversarial Examples](cameraready/DebugML-19_paper_6.pdf). Grzegorz Swirszcz, Brendan O'Donoghue and Pushmeet Kohli.
 - [BertViz: A Tool for Visualizing Multi-Head Self-Attention in the BERT Model](cameraready/DebugML-19_paper_2.pdf). Jesse Vig.
 - [Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients](cameraready/DebugML-19_paper_4.pdf). Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
 - _Dissecting Pruned Neural Networks_. Jonathan Frankle and David Bau.
