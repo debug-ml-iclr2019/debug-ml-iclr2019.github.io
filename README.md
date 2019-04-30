@@ -53,13 +53,13 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Where To Be Adversarial Perturbations Added? Investigating and Manipulating Pixel Robustness Using Input Gradients](cameraready/DebugML-19_paper_4.pdf). Jisung Hwang, Younghoon Kim, Sanghyuk Chun, Jaejun Yoo, Ji-Hoon Kim and Dongyoon Han.
 - [Dissecting Pruned Neural Networks](cameraready/DebugML-19_paper_15.pdf). Jonathan Frankle and David Bau.
 - [Monitoring Opaque Learning Systems](cameraready/DebugML-19_paper_25.pdf). Leilani Gilpin.
-- _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 - [Model Agnostic Globally Interpretable Explanations](cameraready/DebugML-19_paper_5.pdf). Piyush Gupta, Nikaash Puri, Sukriti Verma, Pratiksha Agarwal and Balaji Krishnamurthy.
-- _Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded_. Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
 - [Debugging Trained Machine Learning Models Using Flip Points](cameraready/DebugML-19_paper_11.pdf). Roozbeh Yousefzadeh and Dianne O'Leary.
 - [Universal Multi-Party Poisoning Attacks](cameraready/DebugML-19_paper_16.pdf). Saeed Mahloujifar, Ameer Mohammed and Mohammad Mahmoody.
 - [Failing Loudly: An Empirical Study of Methods for Detecting Dataset Shift](cameraready/DebugML-19_paper_20.pdf). Stephan Rabanser, Stephan Guennemann and Zachary Lipton.
 - [Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness](cameraready/DebugML-19_paper_19.pdf). Xiao Zhang, Saeed Mahloujifar, Mohammad Mahmoody and David Evans.
+- _Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded_. Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Shalini Ghosh, Dhruv Batra and Devi Parikh.
+- _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 - [Similarity of Neural Network Representations Revisited](cameraready/DebugML-19_paper_9.pdf). Simon Kornblith, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Contributed talk).
 - [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon, Christopher Lazarus and Mykel Kochenderfer (Contributed talk).
 - [Debugging Machine Learning via Model Assertions](cameraready/DebugML-19_paper_27.pdf). Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
@@ -67,18 +67,18 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 
 ## Contributed Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
-- _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
 - [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First and QuantumBlack contributors.
-- _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
 - [Debugging Large Scale Deep Recommender Systems using uncertainty estimations and attention](cameraready/DebugML-19_paper_34.pdf). Inbar Naor, Ofer Alper, Dan Friedman and Gil Chamiel
 - [Adversarial Examples for Electrocardiograms](cameraready/DebugML-19_paper_36.pdf). Xintian Han, Yuxuan Hu, Luca Foschini, Lior Jankelson and Rajesh Ranganath.
-- _Black Box Attacks with Shadow Transformers_. Vedant Misra
 - [Debuggable Machine Learning with ConX and Comet.ml](cameraready/DebugML-19_paper_38.pdf). Cecelia Shao and Douglas Blank.
 - [Evidence Based Debugging with DRL-Monitor](cameraready/DebugML-19_paper_39.pdf). Giang Dao and Minwoo Lee.
+- _Black Box Attacks with Shadow Transformers_. Vedant Misra
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
-- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
+- _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
+- _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - [Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration](cameraready/DebugML-19_paper_40.pdf). Benjamin Link, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Contributed talk).
+- _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
 
 ## Workshop Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
