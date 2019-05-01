@@ -73,7 +73,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [Adversarial Examples for Electrocardiograms](cameraready/DebugML-19_paper_36.pdf). Xintian Han, Yuxuan Hu, Luca Foschini, Lior Jankelson and Rajesh Ranganath.
 - [Debuggable Machine Learning with ConX and Comet.ml](cameraready/DebugML-19_paper_38.pdf). Cecelia Shao and Douglas Blank.
 - [Evidence Based Debugging with DRL-Monitor](cameraready/DebugML-19_paper_39.pdf). Giang Dao and Minwoo Lee.
-- [Black Box Attacks with Shadow Transformers](cameraready/DebugML-19_paper_43.pdf). Vedant Misra
+- [Black Box Attacks on Transformer Language Models](cameraready/DebugML-19_paper_43.pdf). Vedant Misra
 - [Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration](cameraready/DebugML-19_paper_40.pdf). Benjamin Link, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Contributed talk).
 - _MODHILL: A framework for debugging gait in multi-factor authentication systems_. Vinay Prabhu, John Whaley and Mihail D.
 - _Who learns? A microscope into neural network training by measuring per-parameter learning_. Janice Lan, Rosanne Liu, Hattie Zhou and Jason Yosinski.
