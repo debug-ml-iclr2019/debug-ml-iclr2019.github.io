@@ -27,7 +27,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 11:50 - 12:00 | Contributed Talk:  *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration.* <br> **Benjamin Link**, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Indeed). |
 | 12.00 - 12.10| Break|
 | 12.10 - 12.40 | Invited Talk: *Discovering Natural Bugs Using Adversarial Data Perturbations.*<br> **Sameer Singh** (University of California Irvine). |
-| 12.40 - 1.00 | Invited Talk: **Deborah Raji** (University of Toronto). |
+| 12.40 - 1.00 | Invited Talk: *"Debugging" Discriminatory ML Systems.*<br> **Deborah Raji** (University of Toronto). |
 | 1.00 - 1:10 | Contributed Talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
 | 1.10 - 2.30| Lunch |
 | 2.30 - 3.20 | Break |
