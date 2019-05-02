@@ -1,0 +1,44 @@
+- name: Danijar Hafner
+  image: assets/faces/danijar.jpg
+  url: https://danijar.com/
+  title: Google Brain & University of Toronto
+- name: Amy Zhang
+  image: assets/faces/amy.jpg
+  url: https://mila.quebec/en/person/amy-zhang/
+  title: Facebook AI Research & McGill University
+- name: Ahmed Touati
+  image: assets/faces/ahmed.jpg
+  url: https://mila.quebec/en/person/touati-ahmed/
+  title: University of Montreal
+- name: Deepak Pathak
+  image: assets/faces/deepak.jpg
+  url: https://people.eecs.berkeley.edu/~pathak/
+  title: UC Berkeley
+- name: Frederik Ebert
+  image: assets/faces/frederik.jpg
+  url: https://febert.github.io/
+  title: UC Berkeley
+- name: Rowan McAllister
+  image: assets/faces/rowan.jpg
+  url: https://people.eecs.berkeley.edu/~rmcallister/
+  title: UC Berkeley
+- name: Roberto Calandra
+  image: assets/faces/roberto.jpg
+  url: https://www.robertocalandra.com/about/
+  title: Facebook AI Research
+- name: Marc G. Bellemare
+  image: assets/faces/marc.jpg
+  url: http://www.marcgbellemare.info/
+  title: Google Brain & McGill University
+- name: Raia Hadsell
+  image: assets/faces/raia.jpg
+  url: http://raiahadsell.com/index.html
+  title: DeepMind
+- name: Alessandro Lazaric
+  image: assets/faces/alessandro.jpg
+  url: http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html
+  title: Facebook AI Research
+- name: Joelle Pineau
+  image: assets/faces/joelle.jpg
+  url: https://www.cs.mcgill.ca/~jpineau/
+  title: Facebook AI Research & McGill University
