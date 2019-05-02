@@ -19,7 +19,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | ----- | -------|
 | 9.50 | Opening remarks: Himabindu Lakkaraju (Harvard) |
 | Session 1 | Chair: Julius Adebayo (MIT) |
-| 10.00 | Invited talk: *Fundamentals of Adversarial Robustness*.<br> **Aleksander Madry** (MIT). |
+| 10.00 | **Invited talk**: *Fundamentals of Adversarial Robustness*.<br> [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT). |
 | 10:30 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 | Contributed talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 | Coffee break |
@@ -34,10 +34,10 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 2.30 | Break |
 | 3.20 | Welcome back remarks: D Sculley (Google) |
 | 3.30 | Invited talk: *Safe and Reliable Machine Learning: Preventing and Identifying Failures*. <br> **Suchi Saria** (Johns Hopkins University). |
-| 4.00 | Invited talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
+| 4.00 | **Invited talk**: *Better Code for Less Debugging with AutoGraph.* <br> [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google). |
 | 4.20 | **Posters & Demos** & Coffee Break |
 | 5.20 | Contributed position paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
-| 5.30 | Invited opinion piece: *Don't debug your black box, replace it.*<br> **Cynthia Rudin** (Duke University).|
+| 5.30 | **Invited opinion piece**: *Don't debug your black box, replace it.*<br> [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University).|
 | 6.00 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
 | 6.25 | Closing remarks: Himabindu Lakkaraju (Harvard)|
 
