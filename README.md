@@ -6,7 +6,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 ## Speakers
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
-- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
+- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google)
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 - [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
 - [Sameer Singh](http://sameersingh.org/) (UC Irvine)
@@ -27,18 +27,18 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 11:40 | **Contributed talk** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* |
 | 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* |
 | 12.00 | Break|
-| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations. |
-| 12.40 | Invited talk: *"Debugging" Discriminatory ML Systems.*<br> **Deborah Raji** (University of Toronto). |
-| 1.00 | Contributed talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
+| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* |
+| 12.40 | **Invited talk** – [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto): *"Debugging" Discriminatory ML Systems* |
+| 1.00 | **Contributed talk** – [Tomer Arnon](https://www.linkedin.com/m/login/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
 | 1.10 | Lunch |
 | 2.30 | Break |
-| 3.20 | Welcome back remarks: D Sculley (Google) |
-| 3.30 | Invited talk: *Safe and Reliable Machine Learning: Preventing and Identifying Failures*. <br> **Suchi Saria** (Johns Hopkins University). |
-| 4.00 | **Invited talk**: *Better Code for Less Debugging with AutoGraph.* <br> [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google). |
+| 3.20 | Welcome back remarks |
+| 3.30 | **Invited talk** – [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University): *Safe and Reliable Machine Learning: Preventing and Identifying Failures* |
+| 4.00 | **Invited talk** – [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google): *Better Code for Less Debugging with AutoGraph* |
 | 4.20 | **Posters & Demos** & Coffee Break |
-| 5.20 | Contributed position paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
-| 5.30 | **Invited opinion piece**: *Don't debug your black box, replace it.*<br> [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University).|
-| 6.00 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
+| 5.20 | **Contributed position paper** – [Michela Paganini](https://mickypaganini.github.io/) (Facebook): *The Scientific Method in the Science of Machine Learning* |
+| 5.30 | **Invited opinion piece** – [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University): *Don't debug your black box, replace it* |
+| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging."<br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
 | 6.25 | Closing remarks: Himabindu Lakkaraju (Harvard)|
 
 ## Posters
