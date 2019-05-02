@@ -31,7 +31,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | | Session chair: [Sarah Tan](https://shftan.github.io/) (Cornell University and UCSF)|
 | 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* |
 | 12.40 | **Invited talk** – [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto): *"Debugging" Discriminatory ML Systems* |
-| 1.00 | **Contributed talk** – [Tomer Arnon](https://www.linkedin.com/m/login/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
+| 1.00 | **Contributed talk** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
 | 1.10 | Lunch |
 | 2.30 | Break |
 | | Session chair: [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google) |
@@ -42,7 +42,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | | Session chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
 | 5.20 | **Contributed position paper** – [Michela Paganini](https://mickypaganini.github.io/) (Facebook): *The Scientific Method in the Science of Machine Learning* |
 | 5.30 | **Invited opinion piece** – [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University): *Don't debug your black box, replace it* |
-| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging"<br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria |
+| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging"<br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: [Aleksander Madry](https://people.csail.mit.edu/madry/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Dan Moldovan](https://ai.google/research/people/DanMoldovan), [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/), [Osbert Bastani](https://obastani.github.io/), [Sameer Singh](http://sameersingh.org/), [Suchi Saria](https://suchisaria.jhu.edu/) |
 | 6.25 | Closing remarks |
 
 ## Posters
