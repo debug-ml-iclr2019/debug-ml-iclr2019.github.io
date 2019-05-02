@@ -41,7 +41,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 6.00 - 6.25 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
 | 6.25 - 6.30 | Closing remarks: Himabindu Lakkaraju (Harvard)|
 
-## Posters (Research Track)
+## Posters
 [Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
 - [Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation](cameraready/DebugML-19_paper_3.pdf). Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
 - [Calibration of Encoder Decoder Models for Neural Machine Translation](cameraready/DebugML-19_paper_12.pdf). Aviral Kumar and Sunita Sarawagi.
@@ -66,7 +66,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 
-## Demos (Debugging-in-Practice Track)
+## Demos
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First and QuantumBlack contributors.
 - [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
@@ -118,6 +118,9 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 ## Sponsors
 <a href="https://openai.com/">
 <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="50%" height="auto">
+</a>
+<a href="https://ai.google/research/">
+<img alt="Google logo" src="GoogleLogo_Color" width="50%" height="auto">
 </a>
 
 ## Program Committee
