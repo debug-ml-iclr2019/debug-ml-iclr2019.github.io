@@ -17,29 +17,29 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 
 | Time | Event |
 | ----- | -------|
-| 9.50-10:00 | Opening remarks: Himabindu Lakkaraju (Harvard) |
+| 9.50 | Opening remarks: Himabindu Lakkaraju (Harvard) |
 | Session 1 | Chair: Julius Adebayo (MIT) |
-| 10.00-10.30 | Invited talk: *Fundamentals of Adversarial Robustness*.<br> **Aleksander Madry** (MIT). |
-| 10:30-10:40 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
-| 10.40-10:50 | Contributed talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
-| 10.50 - 11.10| Coffee break |
-| 11.10 - 11.40 | Invited talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
-| 11:40 - 11:50 | Contributed talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford). |
-| 11:50 - 12:00 | Contributed talk:  *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration.* <br> **Benjamin Link**, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Indeed). |
-| 12.00 - 12.10| Break|
-| 12.10 - 12.40 | Invited talk: *Discovering Natural Bugs Using Adversarial Data Perturbations.*<br> **Sameer Singh** (University of California Irvine). |
-| 12.40 - 1.00 | Invited talk: *"Debugging" Discriminatory ML Systems.*<br> **Deborah Raji** (University of Toronto). |
-| 1.00 - 1:10 | Contributed talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
-| 1.10 - 2.30| Lunch |
-| 2.30 - 3.20 | Break |
-| 3.20 - 3.30 | Welcome back remarks: D Sculley (Google) |
-| 3.30 - 4.00| Invited talk: *Safe and Reliable Machine Learning: Preventing and Identifying Failures*. <br> **Suchi Saria** (Johns Hopkins University). |
-| 4.00 - 4.20| Invited talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
-| 4.20 - 5.20| **Posters & Demos** & Coffee Break |
-| 5.20 - 5.30 | Contributed position paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
-| 5.30 - 6.00 | Invited opinion piece: *Don't debug your black box, replace it.*<br> **Cynthia Rudin** (Duke University).|
-| 6.00 - 6.25 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
-| 6.25 - 6.30 | Closing remarks: Himabindu Lakkaraju (Harvard)|
+| 10.00 | Invited talk: *Fundamentals of Adversarial Robustness*.<br> **Aleksander Madry** (MIT). |
+| 10:30 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
+| 10.40 | Contributed talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
+| 10.50 | Coffee break |
+| 11.10 | Invited talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
+| 11:40 | Contributed talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford). |
+| 11:50 | Contributed talk:  *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration.* <br> **Benjamin Link**, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Indeed). |
+| 12.00 | Break|
+| 12.10 | Invited talk: *Discovering Natural Bugs Using Adversarial Data Perturbations.*<br> **Sameer Singh** (University of California Irvine). |
+| 12.40 | Invited talk: *"Debugging" Discriminatory ML Systems.*<br> **Deborah Raji** (University of Toronto). |
+| 1.00 | Contributed talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
+| 1.10 | Lunch |
+| 2.30 | Break |
+| 3.20 | Welcome back remarks: D Sculley (Google) |
+| 3.30 | Invited talk: *Safe and Reliable Machine Learning: Preventing and Identifying Failures*. <br> **Suchi Saria** (Johns Hopkins University). |
+| 4.00 | Invited talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
+| 4.20 | **Posters & Demos** & Coffee Break |
+| 5.20 | Contributed position paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
+| 5.30 | Invited opinion piece: *Don't debug your black box, replace it.*<br> **Cynthia Rudin** (Duke University).|
+| 6.00 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
+| 6.25 | Closing remarks: Himabindu Lakkaraju (Harvard)|
 
 ## Posters
 [Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
@@ -120,7 +120,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="50%" height="auto">
 </a>
 <a href="https://ai.google/research/">
-<img alt="Google logo" src="GoogleLogo_Color" width="50%" height="auto">
+<img alt="Google logo" src="GoogleLogo_Color.png" width="50%" height="auto">
 </a>
 
 ## Program Committee
