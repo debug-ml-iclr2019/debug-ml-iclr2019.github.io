@@ -18,7 +18,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | Time | Event |
 | ----- | -------|
 | 9.50 - 10:00 | Opening Remarks |
-| 10.00 - 10.30 | Invited Talk: **Aleksander Madry** (MIT). |
+| 10.00 - 10.30 | Invited Talk: *Fundamentals of Adversarial Robustness*.<br> **Aleksander Madry** (MIT). |
 | 10:30 - 10:40 | Contributed Talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 - 10:50 | Contributed Talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 - 11.10| Coffee Break |
@@ -32,7 +32,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 1.10 - 2.30| Lunch |
 | 2.30 - 3.20 | Break |
 | 3.20 - 3.30 | Welcome back remarks |
-| 3.30 - 4.00| Invited Talk: **Suchi Saria** (Johns Hopkins University). |
+| 3.30 - 4.00| Invited Talk: *Safe and Reliable Machine Learning: Preventing and Identifying Failures*. <br> **Suchi Saria** (Johns Hopkins University). |
 | 4.00 - 4.20| Invited Talk: *Better Code for Less Debugging with AutoGraph.* <br> **Dan Moldovan** (Google). |
 | 4.20 - 5.20| **Posters & Demos** & Coffee Break |
 | 5.20 - 5.30 | Contributed Position Paper: *The Scientific Method in the Science of Machine Learning.* <br> Jessica Zosa Forde (Project Jupyter) and **Michela Paganini** (Facebook). |
