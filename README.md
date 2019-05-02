@@ -35,7 +35,6 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 3.30 | **Invited talk** – [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University): *Safe and Reliable Machine Learning: Preventing and Identifying Failures* |
 | 4.00 | **Invited talk** – [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google): *Better Code for Less Debugging with AutoGraph* |
 | 4.20 | **Posters & Demos** & Coffee break <br> [Accepted posters](#posters) &nbsp; [Accepted demos](#demos) |
-| | Session chair – [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
 | 5.20 | **Contributed position paper** – [Michela Paganini](https://mickypaganini.github.io/) (Facebook): *The Scientific Method in the Science of Machine Learning* |
 | 5.30 | **Invited opinion piece** – [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University): *Don't debug your black box, replace it* |
 | 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging"<br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: [Aleksander Madry](https://people.csail.mit.edu/madry/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Dan Moldovan](https://ai.google/research/people/DanMoldovan), [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/), [Osbert Bastani](https://obastani.github.io/), [Sameer Singh](http://sameersingh.org/), [Suchi Saria](https://suchisaria.jhu.edu/) |
@@ -119,6 +118,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 <a href="https://openai.com/">
 <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="50%" height="auto">
 </a>
+<br>
 <a href="https://ai.google/research/">
 <img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
 </a>
