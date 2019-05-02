@@ -9,7 +9,7 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
 - [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
 - [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
-- [Sameer Singh](http://sameersingh.org/) (University of California, Irvine)
+- [Sameer Singh](http://sameersingh.org/) (UC Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 
 ## Schedule 
@@ -23,11 +23,11 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 10:30 | **Contributed talk** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* |
 | 10.40 | **Contributed talk** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* |
 | 10.50 | Coffee break |
-| 11.10 | Invited talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
-| 11:40 | Contributed talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford). |
-| 11:50 | Contributed talk:  *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration.* <br> **Benjamin Link**, Eric Lawrence, Rosemarie Scott, Aaron Pigeon and Jon Witte (Indeed). |
+| 11.10 | **Invited talk** – [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania): *Verifiable Reinforcement Learning via Policy Extraction*|
+| 11:40 | **Contributed talk** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* |
+| 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* |
 | 12.00 | Break|
-| 12.10 | Invited talk: *Discovering Natural Bugs Using Adversarial Data Perturbations.*<br> **Sameer Singh** (University of California Irvine). |
+| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations. |
 | 12.40 | Invited talk: *"Debugging" Discriminatory ML Systems.*<br> **Deborah Raji** (University of Toronto). |
 | 1.00 | Contributed talk: *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks.* <br> Changliu Liu (CMU), **Tomer Arnon**, **Christopher Lazarus** and Mykel Kochenderfer (Stanford).|
 | 1.10 | Lunch |
