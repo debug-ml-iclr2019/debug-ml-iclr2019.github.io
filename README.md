@@ -15,9 +15,9 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 ## Schedule 
 See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
 
-| Time | Event |
+| Time &nbsp; &nbsp;| Event |
 | ----- | -------|
-| 9.50 - 10:00 | Opening remarks: Himabindu Lakkaraju (Harvard) and co-organizers |
+| 9.50 - 10:00 | Opening remarks: Himabindu Lakkaraju (Harvard) |
 | Session 1 | Chair: Julius Adebayo (MIT) |
 | 10.00 - 10.30 | Invited talk: *Fundamentals of Adversarial Robustness*.<br> **Aleksander Madry** (MIT). |
 | 10:30 - 10:40 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
