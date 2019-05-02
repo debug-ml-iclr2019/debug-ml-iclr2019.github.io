@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: "Debugging Machine Learning Models"
-description: "ICLR 2019 workshop, May 6, 2019, New Orleans Room R03"
+description: 
+- ICLR 2019 workshop, May 6, 2019, New Orleans
+- 9.50am - 6pm, Room R03
 buttons:
   Speakers: '#speakers'
   Schedule: '#schedule'
