@@ -19,7 +19,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | ----- | -------|
 | 9.50 | Opening remarks: Himabindu Lakkaraju (Harvard) |
 | Session 1 | Chair: Julius Adebayo (MIT) |
-| 10.00 | **Invited talk**: *Fundamentals of Adversarial Robustness*.<br> [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT). |
+| 10.00 | **Invited talk** - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *Fundamentals of Adversarial Robustness* |
 | 10:30 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
 | 10.40 | Contributed talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
 | 10.50 | Coffee break |
