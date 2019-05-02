@@ -120,7 +120,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="50%" height="auto">
 </a>
 <a href="https://ai.google/research/">
-<img alt="Google logo" src="GoogleLogo_Color.png" width="50%" height="auto">
+<img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
 </a>
 
 ## Program Committee
