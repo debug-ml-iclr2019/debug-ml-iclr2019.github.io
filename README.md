@@ -17,11 +17,11 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 
 | Time | Event |
 | ----- | -------|
-| 9.50 | Opening remarks: Himabindu Lakkaraju (Harvard) |
+| 9.50 | Opening remarks |
 | Session 1 | Chair: Julius Adebayo (MIT) |
-| 10.00 | **Invited talk** - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *Fundamentals of Adversarial Robustness* |
-| 10:30 | Contributed talk: *Similarity of Neural Network Representations Revisited*.<br>**Simon Kornblith**, Mohammad Norouzi, Honglak Lee and Geoffrey Hinton (Google).|
-| 10.40 | Contributed talk: *Error terrain analysis for machine learning: Tool and visualizations.*<br> Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and **Besmira Nushi** (Microsoft). |
+| 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *Fundamentals of Adversarial Robustness* |
+| 10:30 | **Contributed talk** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* |
+| 10.40 | **Contributed talk** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* |
 | 10.50 | Coffee break |
 | 11.10 | Invited talk: *Verifiable Reinforcement Learning via Policy Extraction.*<br> **Osbert Bastani** (University of Pennsylvania). |
 | 11:40 | Contributed talk: *Debugging Machine Learning via Model Assertions.*<br> **Daniel Kang**, Deepti Raghavan, Peter Bailis and Matei Zaharia (Stanford). |
