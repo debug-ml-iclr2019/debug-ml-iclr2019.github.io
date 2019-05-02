@@ -3,7 +3,7 @@ Machine learning (ML) models are increasingly being employed to make highly cons
 
 The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. 
 
-## Invited Speakers
+## Speakers
 - [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
 - [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
 - [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google -- TensorFlow AutoGraph project)
@@ -41,7 +41,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 6.00 - 6.25 | **Q&A and panel with all invited speakers**: "The Future of ML Debugging."<br> Moderator: **Himabindu Lakkaraju** (Harvard). <br> Panelists: **Aleksander Madry, Cynthia Rudin, Dan Moldovan, Deborah Raji, Osbert Bastani, Sameer Singh, Suchi Saria** |
 | 6.25 - 6.30 | Closing remarks: Himabindu Lakkaraju (Harvard)|
 
-## Contributed Posters (Research Track)
+## Posters (Research Track)
 [Call for submissions](https://drive.google.com/open?id=17ccUz0F1kD9JEQC1LIrBeJNpH3xTf2w-esZWyZMjsto) (deadline has passed)
 - [Discovery of Intersectional Bias in Machine Learning Using Automatic Subgroup Generation](cameraready/DebugML-19_paper_3.pdf). Angel Cabrera, Minsuk Kahng, Fred Hohman, Jamie Morgenstern and Duen Horng Chau
 - [Calibration of Encoder Decoder Models for Neural Machine Translation](cameraready/DebugML-19_paper_12.pdf). Aviral Kumar and Sunita Sarawagi.
@@ -66,7 +66,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
 - _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 
-## Contributed Demos (Debugging-in-Practice Track)
+## Demos (Debugging-in-Practice Track)
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
 - [Operationalising Risk Management for Machine Learning: Building a Protocol-Driven System for Performance, Explainability, and Fairness](cameraready/DebugML-19_paper_30.pdf). Imran Ahmed, Giles L. Colclough, Daniel First and QuantumBlack contributors.
 - [Building Models for Mobile Video Understanding](cameraready/DebugML-19_paper_33.pdf). Franck Ngamkan and Geneviève Patterson.
@@ -81,7 +81,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - _TensorWatch: A Multifaceted System for the Deep Learning Debugging and Visualization_. Shital Shah, Roland Fernandez and Steven Drucker.
 - _Error terrain analysis for machine learning: Tool and visualizations_. Rick Barraza, Russell Eames, Yan Esteve Balducci, Josh Hinds, Scott Hoogerwerf, Eric Horvitz, Ece Kamar, Jacquelyn Krones, Josh Lovejoy, Parham Mohadjer, Ben Noah and Besmira Nushi (Contributed talk).
 
-## Workshop Topics
+## Topics
 - Debugging via **interpretability**: How can interpretable models and techniques aid us in effectively debugging ML models?
 
 - **Program verification** as a tool for model debugging: Are existing program verification frameworks readily applicable to ML models? If not, what are the gaps that exist and how do we bridge them?
