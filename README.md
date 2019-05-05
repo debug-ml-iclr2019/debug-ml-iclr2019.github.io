@@ -117,16 +117,16 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 
 
 <div style="display: flex">
-  <div style="width: 200px">
+  <div style="width:20%">
     <a href="https://web.stanford.edu/~himalv/">
-    <img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
+    <img alt="Himabindu Lakkaraju" src="pics/hima.jpg">
     </a><br>
     Himabindu Lakkaraju<br>
     Harvard University
   </div>
-  <div style="width: 200px">
+  <div style="width:20%">
     <a href="https://web.stanford.edu/~himalv/">
-    <img alt="Himabindu Lakkaraju" src="pics/sarah.png" width="35%" height="auto">
+    <img alt="Himabindu Lakkaraju" src="pics/sarah.png">
     </a><br>
     Himabindu Lakkaraju<br>
     Harvard University 
