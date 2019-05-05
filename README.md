@@ -134,7 +134,8 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   <a href="https://shftan.github.io/">Sarah Tan</a><br>
     Cornell University / UCSF 
   </div>
-    <div style="width:2.5%">
+  
+  <div style="width:2.5%">
   </div>
   
   <div style="width:20%">
@@ -145,13 +146,38 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
     MIT
   </div>
   
-  <div style="width:20%">
-    <a href="http://juliusadebayo.com/">
-    <img alt="Julius Adebayo" src="pics/rich.jpg">
-    </a><br>
-  <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
-    MIT
+  <div style="width:2.5%">
   </div>
+  
+  <div style="width:20%">
+    <a href="https://www.stat.berkeley.edu/~jsteinhardt/">
+    <img alt="Jacob Steinhardt" src="pics/jacob.png">
+    </a><br>
+  <a href="https://www.stat.berkeley.edu/~jsteinhardt/">Jacob Steinhardt</a><br>
+    Open Philanthropy Project / OpenAI
+  </div>
+</div>
+
+<div style="display: flex">
+  <div style="width:20%">
+    <a href="https://www.eecs.tufts.edu/~dsculley/">
+    <img alt="D Sculley" src="pics/d.jpg">
+    </a><br>
+    <a href="https://www.eecs.tufts.edu/~dsculley/">D Sculley</a><br>
+    Google
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:20%">
+    <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">
+    <img alt="Rich Caruana" src="pics/rich.jpg">
+    </a><br>
+  <a href="https://shftan.github.io/">Rich Caruana</a><br>
+    Microsoft Research
+  </div>
+
 </div>
 
 ## Contact Us
