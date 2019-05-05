@@ -115,11 +115,11 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Sponsors
 <a href="https://openai.com/">
-<img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="40%" height="auto">
+<img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="30%" height="auto">
 </a>
 <br>
 <a href="https://ai.google/research/">
-<img alt="Google logo" src="GoogleLogo_Color.png" width="40%" height="auto">
+<img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
 </a>
 
 ## Program Committee
