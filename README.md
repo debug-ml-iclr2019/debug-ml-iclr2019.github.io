@@ -108,15 +108,8 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZTzU0x98wB-NxvQ_yd-pFbplEzE).
 
 ## Organizers
-- [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University)
-- [Sarah Tan](https://shftan.github.io/) (Cornell University / UCSF)
-- [Julius Adebayo](http://juliusadebayo.com/) (MIT)
-- [Jacob Steinhardt](https://cs.stanford.edu/~jsteinhardt/) (Open Philanthropy Project and OpenAI)
-- [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
-- [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
-
 <div style="display: flex">
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="https://web.stanford.edu/~himalv/">
     <img alt="Himabindu Lakkaraju" src="pics/hima.jpg">
     </a><br>
@@ -127,7 +120,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   <div style="width:2.5%">
   </div>
   
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="https://shftan.github.io/">
     <img alt="Sarah Tan" src="pics/sarah.png">
     </a><br>
@@ -138,7 +131,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   <div style="width:2.5%">
   </div>
   
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="http://juliusadebayo.com/">
     <img alt="Julius Adebayo" src="pics/julius.jpg">
     </a><br>
@@ -149,7 +142,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   <div style="width:2.5%">
   </div>
   
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="https://www.stat.berkeley.edu/~jsteinhardt/">
     <img alt="Jacob Steinhardt" src="pics/jacob.png">
     </a><br>
@@ -159,7 +152,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 </div>
 
 <div style="display: flex">
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="https://www.eecs.tufts.edu/~dsculley/">
     <img alt="D Sculley" src="pics/d.jpg">
     </a><br>
@@ -170,11 +163,11 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   <div style="width:2.5%">
   </div>
   
-  <div style="width:20%">
+  <div style="width:22.5%">
     <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">
     <img alt="Rich Caruana" src="pics/rich.jpg">
     </a><br>
-  <a href="https://shftan.github.io/">Rich Caruana</a><br>
+  <a href="https://www.microsoft.com/en-us/research/people/rcaruana/">Rich Caruana</a><br>
     Microsoft Research
   </div>
 
