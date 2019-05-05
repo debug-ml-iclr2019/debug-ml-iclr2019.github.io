@@ -18,6 +18,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | Time | Event |
 | ----- | -------|
 | 9.50 | Opening remarks |
+| | Session Chair: Julius Adebayo (MIT) |
 | 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *A New Perspective on Adversarial Perturbations* |
 | 10:30 | **Contributed talk** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* |
 | 10.40 | **Contributed talk** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* |
