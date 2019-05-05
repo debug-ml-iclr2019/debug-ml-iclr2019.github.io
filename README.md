@@ -117,15 +117,15 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 
 <span style="display: inline-block;">
 <a href="https://web.stanford.edu/~himalv/">
-<img alt="Himabindu Lakkaraju" src="pics/hima.png" width="35%" height="auto">
-</a>
+<img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
+</a><br>
 Himabindu Lakkaraju<br>
 Harvard University
 </span> 
 
 <span style="display: inline-block;">
 <a href="https://web.stanford.edu/~himalv/">
-<img alt="Himabindu Lakkaraju" src="pics/hima.png" width="35%" height="auto">
+<img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
 </a>
 Himabindu Lakkaraju<br>
 Harvard University
