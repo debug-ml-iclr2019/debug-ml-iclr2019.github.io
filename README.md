@@ -180,7 +180,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 <div style="display: flex">
   <div style="width:25%">
     <a href="https://openai.com/">
-    <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="35%" height="auto">
+    <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png">
     </a>
   </div>
   
@@ -189,7 +189,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
   
   <div style="width:25%">
     <a href="https://ai.google/research/">
-    <img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
+    <img alt="Google logo" src="GoogleLogo_Color.png">
     </a>
   </div>
 </div>  
