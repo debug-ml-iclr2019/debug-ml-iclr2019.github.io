@@ -63,7 +63,6 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 - [NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks](cameraready/DebugML-19_paper_22.pdf). Changliu Liu, Tomer Arnon, Christopher Lazarus and Mykel Kochenderfer (Contributed talk).
 - [Debugging Machine Learning via Model Assertions](cameraready/DebugML-19_paper_27.pdf). Daniel Kang, Deepti Raghavan, Peter Bailis and Matei Zaharia (Contributed talk).
 - [The Scientific Method in the Science of Machine Learning](cameraready/DebugML-19_paper_26.pdf). Jessica Zosa Forde and Michela Paganini (Contributed talk).
-- _A Gray Box Interpretable Visual Debugging Approach for Deep Sequence Learning Model_. Md. Mofijul Islam, Amar Debnath, Tahsin Al Sayeed, Jyotirmay Nag Setu, Md Sadman Sakib, Md Abdur Razzaque, Md. Mosaddek Khan, Swakkhar Shatabda, Anik Islam and Md Mahmudur Rahman.
 
 ## Demos
 [Call for submissions](https://drive.google.com/open?id=1vrhn7FhsCbYULF5To-Hgcec9s8kpMR5K7jhQtFzsjRo) (deadline has passed)
