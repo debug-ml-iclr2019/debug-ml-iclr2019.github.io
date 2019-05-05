@@ -178,7 +178,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Sponsors
 <div style="display: flex">
-  <div style="width:25%">
+  <div style="width:30%">
     <a href="https://openai.com/">
     <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png">
     </a>
@@ -187,7 +187,7 @@ Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
   <div style="width:2.5%">
   </div>
   
-  <div style="width:25%">
+  <div style="width:30%">
     <a href="https://ai.google/research/">
     <img alt="Google logo" src="GoogleLogo_Color.png">
     </a>
