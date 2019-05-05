@@ -115,21 +115,20 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-<span style="display: inline-block;">
+<div style="display: inline-block;">
 <a href="https://web.stanford.edu/~himalv/">
 <img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
 </a><br>
 Himabindu Lakkaraju<br>
 Harvard University
-</span> 
-
-<span style="display: inline-block;">
+</div>
+<div style="display: inline-block;">
 <a href="https://web.stanford.edu/~himalv/">
-<img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
-</a>
+<img alt="Himabindu Lakkaraju" src="pics/sarah.png" width="35%" height="auto">
+</a><br>
 Himabindu Lakkaraju<br>
 Harvard University
-</span> 
+</div>
 
 ## Contact Us
 Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
