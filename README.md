@@ -34,7 +34,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 1.00 | **Contributed talk** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
 | 1.10 | Lunch |
 | 2.30 | Break |
-| | Session Chair: [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google) |
+| | Session Chair: [D Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google) |
 | 3.20 | Welcome back remarks |
 | 3.30 | **Invited talk** – [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University): *Safe and Reliable Machine Learning: Preventing and Identifying Failures* |
 | 4.00 | **Invited talk** – [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google): *Better Code for Less Debugging with AutoGraph* |
