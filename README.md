@@ -184,13 +184,22 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
 ## Sponsors
-<a href="https://openai.com/">
-<img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="35%" height="auto">
-</a>
-<br>
-<a href="https://ai.google/research/">
-<img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
-</a>
+<div style="display: flex">
+  <div style="width:25%">
+    <a href="https://openai.com/">
+    <img alt="OpenAI logo" src="openai-logo-horizontal-dimensional-purple.png" width="35%" height="auto">
+    </a>
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:25%">
+    <a href="https://ai.google/research/">
+    <img alt="Google logo" src="GoogleLogo_Color.png" width="30%" height="auto">
+    </a>
+  </div>
+</div>  
 
 ## Program Committee
 
