@@ -115,19 +115,22 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-<div style="display: inline-block;">
-<a href="https://web.stanford.edu/~himalv/">
-<img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
-</a><br>
-Himabindu Lakkaraju<br>
-Harvard University
-</div>
-<div style="display: inline-block;">
-<a href="https://web.stanford.edu/~himalv/">
-<img alt="Himabindu Lakkaraju" src="pics/sarah.png" width="35%" height="auto">
-</a><br>
-Himabindu Lakkaraju<br>
-Harvard University
+
+<div style="display: flex">
+  <div style="width: 200px">
+    <a href="https://web.stanford.edu/~himalv/">
+    <img alt="Himabindu Lakkaraju" src="pics/hima.jpg" width="35%" height="auto">
+    </a><br>
+    Himabindu Lakkaraju<br>
+    Harvard University
+  </div>
+  <div style="width: 200px">
+    <a href="https://web.stanford.edu/~himalv/">
+    <img alt="Himabindu Lakkaraju" src="pics/sarah.png" width="35%" height="auto">
+    </a><br>
+    Himabindu Lakkaraju<br>
+    Harvard University 
+  </div>
 </div>
 
 ## Contact Us
