@@ -115,6 +115,16 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
+<div style="text-align: left;">
+{%- for person in site.data.organizers -%}
+<div class="person">
+  <img src="{{ person.image }}" />
+  <a href="{{ person.url | relative_url }}">{{ person.name }}</a><br>
+  <span>{{ person.title | replace: '&', '<br>' }}</span>
+</div>
+{%- endfor -%}
+</div>
+
 ## Contact Us
 Email [debugging.ml@gmail.com](mailto:debugging.ml@gmail.com) any questions.
 
