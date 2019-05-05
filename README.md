@@ -111,7 +111,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://web.stanford.edu/~himalv/">
-    <img alt="Himabindu Lakkaraju" src="pics/hima.jpg">
+    <img alt="Himabindu Lakkaraju" src="pics/hima.png">
     </a><br>
     <a href="https://web.stanford.edu/~himalv/">Himabindu Lakkaraju</a><br>
     Harvard University
