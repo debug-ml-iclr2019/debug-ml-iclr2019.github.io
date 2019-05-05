@@ -121,15 +121,29 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
     <a href="https://web.stanford.edu/~himalv/">
     <img alt="Himabindu Lakkaraju" src="pics/hima.jpg">
     </a><br>
-    Himabindu Lakkaraju<br>
+    <a href="https://web.stanford.edu/~himalv/">Himabindu Lakkaraju</a><br>
     Harvard University
   </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
   <div style="width:20%">
-    <a href="https://web.stanford.edu/~himalv/">
-    <img alt="Himabindu Lakkaraju" src="pics/sarah.png">
+    <a href="https://shftan.github.io/">
+    <img alt="Sarah Tan" src="pics/sarah.png">
     </a><br>
-    Himabindu Lakkaraju<br>
-    Harvard University 
+  <a href="https://shftan.github.io/">Sarah Tan</a><br>
+    Cornell University / UCSF 
+  </div>
+    <div style="width:2.5%">
+  </div>
+  
+  <div style="width:20%">
+    <a href="http://juliusadebayo.com/">
+    <img alt="Julius Adebayo" src="pics/julius.png">
+    </a><br>
+  <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
+    MIT
   </div>
 </div>
 
