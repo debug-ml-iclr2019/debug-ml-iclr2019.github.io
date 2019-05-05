@@ -115,7 +115,6 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 - [D. Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google)
 - [Rich Caruana](https://www.microsoft.com/en-us/research/people/rcaruana/) (Microsoft Research)
 
-
 <div style="display: flex">
   <div style="width:20%">
     <a href="https://web.stanford.edu/~himalv/">
@@ -140,7 +139,15 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
   
   <div style="width:20%">
     <a href="http://juliusadebayo.com/">
-    <img alt="Julius Adebayo" src="pics/julius.png">
+    <img alt="Julius Adebayo" src="pics/julius.jpg">
+    </a><br>
+  <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
+    MIT
+  </div>
+  
+  <div style="width:20%">
+    <a href="http://juliusadebayo.com/">
+    <img alt="Julius Adebayo" src="pics/rich.jpg">
     </a><br>
   <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
     MIT
