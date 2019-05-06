@@ -12,6 +12,83 @@ The goal of this workshop, held at the [2019 International Conference on Learnin
 - [Sameer Singh](http://sameersingh.org/) (UC Irvine)
 - [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
 
+## Speakers
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://people.csail.mit.edu/madry/">
+    <img alt="Aleksander Madry" src="pics/aleksander.jpg">
+    </a><br>
+    <a href="https://people.csail.mit.edu/madry/">Aleksander Madry</a><br>
+    MIT
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://users.cs.duke.edu/~cynthia/">
+    <img alt="Cynthia Rudin" src="pics/cynthia.jpg">
+    </a><br>
+  <a href="https://users.cs.duke.edu/~cynthia/">Cynthia Rudin</a><br>
+    Duke University 
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://ai.google/research/people/DanMoldovan">
+    <img alt="Dan Moldovan" src="pics/dan.jpg">
+    </a><br>
+  <a href="https://ai.google/research/people/DanMoldovan">Dan Moldovan</a><br>
+    Google
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www.linkedin.com/in/deborah-raji-065751b2/">
+    <img alt="Deborah Raji" src="pics/deb.jpg">
+    </a><br>
+  <a href="https://www.linkedin.com/in/deborah-raji-065751b2/">Deborah Raji</a><br>
+    University of Toronto
+  </div>
+</div>
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="https://obastani.github.io/">
+    <img alt="Osbert Bastani" src="pics/osbert.jpg">
+    </a><br>
+    <a href="https://obastani.github.io/">Osbert Bastani</a><br>
+    University of Pennsylvania
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="http://sameersingh.org/">
+    <img alt="Sameer Singh" src="pics/sameer.jpg">
+    </a><br>
+  <a href="http://sameersingh.org/">Sameer Singh</a><br>
+    UC Irvine
+  </div>
+
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://suchisaria.jhu.edu/">
+    <img alt="Suchi Saria" src="pics/suchi.jpg">
+    </a><br>
+  <a href="https://suchisaria.jhu.edu/">Suchi Saria</a><br>
+    Johns Hopkins University
+  </div>
+
+</div>
+
 ## Schedule 
 See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3FoUfVkUoC0c) for a printable version.
 
