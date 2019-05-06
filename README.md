@@ -4,15 +4,6 @@ Machine learning (ML) models are increasingly being employed to make highly cons
 The goal of this workshop, held at the [2019 International Conference on Learning Representations (ICLR)](https://iclr.cc/), is to bring together researchers and practitioners with different perspectives on debugging ML models. 
 
 ## Speakers
-- [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT)
-- [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University)
-- [Dan Moldovan](https://ai.google/research/people/DanMoldovan) (Google)
-- [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto)
-- [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania)
-- [Sameer Singh](http://sameersingh.org/) (UC Irvine)
-- [Suchi Saria](https://suchisaria.jhu.edu/) (Johns Hopkins University)
-
-## Speakers
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://people.csail.mit.edu/madry/">
@@ -188,7 +179,7 @@ See a [list of references](https://docs.google.com/document/d/1rhkYP23XBygwVPJRZ
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://web.stanford.edu/~himalv/">
-    <img alt="Himabindu Lakkaraju" src="pics/hima.png">
+    <img alt="Himabindu Lakkaraju" src="pics/hima.jpg">
     </a><br>
     <a href="https://web.stanford.edu/~himalv/">Himabindu Lakkaraju</a><br>
     Harvard University
