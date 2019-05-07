@@ -88,18 +88,18 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 9.50 | Opening remarks |
 | | Session Chair: [Julius Adebayo](http://juliusadebayo.com/) (MIT) |
 | 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *A New Perspective on Adversarial Perturbations* |
-| 10:30 | **Contributed talk** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* |
-| 10.40 | **Contributed talk** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* |
+| 10:30 | **Contributed talk (Best Research Paper Award) ** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* |
+| 10.40 | **Contributed talk (Best Demo Award) ** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* |
 | 10.50 | Coffee break |
 | | Session Chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
 | 11.10 | **Invited talk** – [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania): *Verifiable Reinforcement Learning via Policy Extraction*|
-| 11:40 | **Contributed talk** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* |
+| 11:40 | **Contributed talk (Best Student Research Paper Award)** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* |
 | 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* |
 | 12.00 | Break|
 | | Session Chair: [Sarah Tan](https://shftan.github.io/) (Cornell University / UCSF)|
 | 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* |
 | 12.40 | **Invited talk** – [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto): *"Debugging" Discriminatory ML Systems* |
-| 1.00 | **Contributed talk** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
+| 1.00 | **Contributed talk (Best Applied Paper Award)** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* |
 | 1.10 | Lunch |
 | 2.30 | Break |
 | | Session Chair: [D Sculley](https://www.eecs.tufts.edu/~dsculley/) (Google) |
