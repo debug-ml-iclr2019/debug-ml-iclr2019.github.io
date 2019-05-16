@@ -87,14 +87,14 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | ----- | -------|
 | 9.50 | Opening remarks [[video]](https://slideslive.com/38915697/opening-remarks-debugging-machine-learning-models)|
 | | Session Chair: [Julius Adebayo](http://juliusadebayo.com/) (MIT) |
-| 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *A New Perspective on Adversarial Perturbations* |
+| 10.00 | **Invited talk** – [Aleksander Madry](https://people.csail.mit.edu/madry/) (MIT): *A New Perspective on Adversarial Perturbations* [[video]](https://slideslive.com/38915699/a-new-perspective-on-adversarial-perturbations)|
 | 10:30 | **Contributed talk (Best Research Paper Award)** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* [[video]](https://slideslive.com/38915700/similarity-of-neural-network-representations-revisited)|
 | 10.40 | **Contributed talk (Best Demo Award)** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* [[video]](https://slideslive.com/38915701/error-terrain-analysis-for-machine-learning-tool-and-visualizations)|
 | 10.50 | Coffee break |
 | | Session Chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
 | 11.10 | **Invited talk** – [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania): *Verifiable Reinforcement Learning via Policy Extraction* [[video]](https://slideslive.com/38915702/verifiable-reinforcement-learning-via-policy-extraction)|
-| 11:40 | **Contributed talk (Best Student Research Paper Award)** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* |
-| 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* |
+| 11:40 | **Contributed talk (Best Student Research Paper Award)** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* [[video]](https://slideslive.com/38915703/model-assertions-fo-quality-assirance-in-machine-learning) |
+| 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* [[video]](https://slideslive.com/38915705/improving-jobseekeremployer-match-models-at-indeed-through-process-visualization-and-exploration)|
 | 12.00 | Break|
 | | Session Chair: [Sarah Tan](https://shftan.github.io/) (Cornell University / UCSF)|
 | 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* |
@@ -110,7 +110,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | | Session Chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
 | 5.20 | **Contributed position paper** – [Michela Paganini](https://mickypaganini.github.io/) (Facebook): *The Scientific Method in the Science of Machine Learning* [[video]](https://slideslive.com/38915710/the-scientific-method-in-the-science-of-machine-learning)|
 | 5.30 | **Invited opinion piece** – [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/) (Duke University): *Don't debug your black box, replace it* [[video]](https://slideslive.com/38915712/dont-debug-your-black-box-replace-it)|
-| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging"<br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: [Aleksander Madry](https://people.csail.mit.edu/madry/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Dan Moldovan](https://ai.google/research/people/DanMoldovan), [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/), [Osbert Bastani](https://obastani.github.io/), [Sameer Singh](http://sameersingh.org/), [Suchi Saria](https://suchisaria.jhu.edu/) |
+| 6.00 | **Q&A and panel with all invited speakers** – "The Future of ML Debugging" [[video]](https://slideslive.com/38915711/the-future-of-ml-debugging-qa-and-panel-with-all-invited-speakers) <br> Moderator: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) <br> Panelists: [Aleksander Madry](https://people.csail.mit.edu/madry/), [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/), [Dan Moldovan](https://ai.google/research/people/DanMoldovan), [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/), [Osbert Bastani](https://obastani.github.io/), [Sameer Singh](http://sameersingh.org/), [Suchi Saria](https://suchisaria.jhu.edu/) |
 | 6.25 | Closing remarks |
 
 ## Posters
