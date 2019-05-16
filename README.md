@@ -91,7 +91,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 10:30 | **Contributed talk (Best Research Paper Award)** – [Simon Kornblith](http://simonster.com/) (Google): *Similarity of Neural Network Representations Revisited* [[video]](https://slideslive.com/38915700/similarity-of-neural-network-representations-revisited)|
 | 10.40 | **Contributed talk (Best Demo Award)** – [Besmira Nushi](https://www.microsoft.com/en-us/research/people/benushi/) (Microsoft Research): *Error terrain analysis for machine learning: Tool and visualizations* [[video]](https://slideslive.com/38915701/error-terrain-analysis-for-machine-learning-tool-and-visualizations)|
 | 10.50 | Coffee break |
-| | Session Chair: [Himabindu Lakkaraju](https://web.stanford.edu/~himalv/) (Harvard University) |
+| | Session Chair: [Julius Adebayo](http://juliusadebayo.com/) (MIT) |
 | 11.10 | **Invited talk** – [Osbert Bastani](https://obastani.github.io/) (University of Pennsylvania): *Verifiable Reinforcement Learning via Policy Extraction* [[video]](https://slideslive.com/38915702/verifiable-reinforcement-learning-via-policy-extraction)|
 | 11:40 | **Contributed talk (Best Student Research Paper Award)** – [Daniel Kang](https://ddkang.github.io/) (Stanford): *Debugging Machine Learning via Model Assertions* [[video]](https://slideslive.com/38915703/model-assertions-fo-quality-assirance-in-machine-learning) |
 | 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* [[video]](https://slideslive.com/38915705/improving-jobseekeremployer-match-models-at-indeed-through-process-visualization-and-exploration)|
