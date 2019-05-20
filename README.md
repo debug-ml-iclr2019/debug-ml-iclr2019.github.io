@@ -97,7 +97,7 @@ See [here](https://docs.google.com/document/d/1RoeyDLNup6Ym9ZEJhnMu3z720-5U8LK3F
 | 11:50 | **Contributed talk** – [Benjamin Link](https://www.linkedin.com/in/ben-link-45a5981a) (Indeed): *Improving Jobseeker-Employer Match Models at Indeed Through Process, Visualization, and Exploration* [[video]](https://slideslive.com/38915705/improving-jobseekeremployer-match-models-at-indeed-through-process-visualization-and-exploration)|
 | 12.00 | Break|
 | | Session Chair: [Sarah Tan](https://shftan.github.io/) (Cornell University / UCSF)|
-| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* |
+| 12.10 | **Invited talk** – [Sameer Singh](http://sameersingh.org/) (UC Irvine): *Discovering Natural Bugs Using Adversarial Data Perturbations* [[video]](https://slideslive.com/38915704/discovering-natural-bugs-using-adversarial-data-perturbations)|
 | 12.40 | **Invited talk** – [Deborah Raji](https://www.linkedin.com/in/deborah-raji-065751b2/) (University of Toronto): *"Debugging" Discriminatory ML Systems* [[video]](https://slideslive.com/38915706/debugging-discriminatory-ml-systems)|
 | 1.00 | **Contributed talk (Best Applied Paper Award)** – [Tomer Arnon](https://www.linkedin.com/in/tomerarnon/) and [Christopher Lazarus](https://www.linkedin.com/in/christopherlazarus/): *NeuralVerification.jl: Algorithms for Verifying Deep Neural Networks* [[video]](https://slideslive.com/38915707/neuralverificationjl-algorithms-for-verifying-deep-neural-networks)|
 | 1.10 | Lunch |
